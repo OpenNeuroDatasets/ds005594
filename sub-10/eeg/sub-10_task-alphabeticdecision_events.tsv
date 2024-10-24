@@ -1,0 +1,1269 @@
+onset	duration	trial_type	value	sample	stimulus	target	blank_jitter_frames	accuracy	response_time	block
+0.0	203.792	BAD_break	3	0	n/a	n/a	n/a	n/a	n/a	n/a
+204.292	0.0	nontarget	5	204292	w	0	16.0	n/a	n/a	1
+206.242	0.0	nontarget	5	206242	r	0	14.0	n/a	n/a	1
+208.742	0.0	nontarget	5	208742	y	0	47.0	n/a	n/a	1
+210.992	0.0	nontarget	5	210992	b	0	32.0	n/a	n/a	1
+213.058	0.0	nontarget	5	213058	s	0	21.0	n/a	n/a	1
+215.458	0.0	nontarget	5	215458	q	0	41.0	n/a	n/a	1
+217.475	0.0	nontarget	5	217475	x	0	18.0	n/a	n/a	1
+219.441	0.0	nontarget	5	219441	u	0	15.0	n/a	n/a	1
+221.391	0.0	nontarget	5	221391	d	0	14.0	n/a	n/a	1
+223.624	0.0	nontarget	5	223624	ü	0	31.0	n/a	n/a	1
+225.574	0.0	target	6	225574	t	1	14.0	1	0.5171569	1
+225.941	0.5	BAD keypress	2	225941	n/a	n/a	n/a	n/a	n/a	n/a
+226.191	0.0	keypress	4	226191	n/a	n/a	n/a	n/a	n/a	n/a
+227.441	0.0	target	6	227441	u	1	15.0	1	0.5382719	1
+227.841	0.5	BAD keypress	2	227841	n/a	n/a	n/a	n/a	n/a	n/a
+228.091	0.0	keypress	4	228091	n/a	n/a	n/a	n/a	n/a	n/a
+229.358	0.0	nontarget	5	229358	k	0	17.0	n/a	n/a	1
+231.807	0.0	nontarget	5	231807	m	0	44.0	n/a	n/a	1
+233.957	0.0	target	6	233957	n	1	26.0	1	0.5174351	1
+234.307	0.5	BAD keypress	2	234307	n/a	n/a	n/a	n/a	n/a	n/a
+234.557	0.0	keypress	4	234557	n/a	n/a	n/a	n/a	n/a	n/a
+236.257	0.0	target	6	236257	u	1	43.0	1	0.4574176	1
+236.574	0.5	BAD keypress	2	236574	n/a	n/a	n/a	n/a	n/a	n/a
+236.824	0.0	keypress	4	236824	n/a	n/a	n/a	n/a	n/a	n/a
+238.14	0.0	nontarget	5	238140	q	0	20.0	n/a	n/a	1
+240.29	0.0	target	6	240290	z	1	26.0	1	0.5519999	1
+240.69	0.5	BAD keypress	2	240690	n/a	n/a	n/a	n/a	n/a	n/a
+240.94	0.0	keypress	4	240940	n/a	n/a	n/a	n/a	n/a	n/a
+242.507	0.0	nontarget	5	242507	f	0	35.0	n/a	n/a	1
+244.624	0.0	target	6	244624	d	1	24.0	1	0.4745654	1
+244.974	0.5	BAD keypress	2	244974	n/a	n/a	n/a	n/a	n/a	n/a
+245.224	0.0	keypress	4	245224	n/a	n/a	n/a	n/a	n/a	n/a
+246.69	0.0	nontarget	5	246690	o	0	29.0	n/a	n/a	1
+249.173	0.0	nontarget	5	249173	u	0	46.0	n/a	n/a	1
+251.157	0.0	target	6	251157	w	1	16.0	1	0.4690182	1
+251.49	0.5	BAD keypress	2	251490	n/a	n/a	n/a	n/a	n/a	n/a
+251.74	0.0	keypress	4	251740	n/a	n/a	n/a	n/a	n/a	n/a
+253.223	0.0	nontarget	5	253223	p	0	29.0	n/a	n/a	1
+255.423	0.0	nontarget	5	255423	z	0	29.0	n/a	n/a	1
+257.84	0.0	nontarget	5	257840	ö	0	42.0	n/a	n/a	1
+260.006	0.0	target	6	260006	e	1	27.0	1	0.3869828	1
+260.29	0.5	BAD keypress	2	260290	n/a	n/a	n/a	n/a	n/a	n/a
+260.54	0.0	keypress	4	260540	n/a	n/a	n/a	n/a	n/a	n/a
+262.006	0.0	nontarget	5	262006	ü	0	29.0	n/a	n/a	1
+264.139	0.0	nontarget	5	264139	m	0	25.0	n/a	n/a	1
+266.189	0.0	nontarget	5	266189	p	0	20.0	n/a	n/a	1
+268.572	0.0	nontarget	5	268572	e	0	40.0	n/a	n/a	1
+270.972	0.0	nontarget	5	270972	o	0	41.0	n/a	n/a	1
+273.206	0.0	nontarget	5	273206	ü	0	31.0	n/a	n/a	1
+275.739	0.0	nontarget	5	275739	u	0	49.0	n/a	n/a	1
+277.939	0.0	target	6	277939	f	1	29.0	1	0.5331849	1
+278.322	0.5	BAD keypress	2	278322	n/a	n/a	n/a	n/a	n/a	n/a
+278.572	0.0	keypress	4	278572	n/a	n/a	n/a	n/a	n/a	n/a
+280.389	0.0	nontarget	5	280389	e	0	50.0	n/a	n/a	1
+282.388	0.0	nontarget	5	282388	ä	0	17.0	n/a	n/a	1
+284.388	0.0	nontarget	5	284388	o	0	17.0	n/a	n/a	1
+286.638	0.0	nontarget	5	286638	j	0	32.0	n/a	n/a	1
+288.622	0.0	nontarget	5	288622	x	0	16.0	n/a	n/a	1
+290.871	0.0	nontarget	5	290871	p	0	32.0	n/a	n/a	1
+293.138	0.0	target	6	293138	d	1	33.0	1	0.4529517	1
+293.455	0.5	BAD keypress	2	293455	n/a	n/a	n/a	n/a	n/a	n/a
+293.705	0.0	keypress	4	293705	n/a	n/a	n/a	n/a	n/a	n/a
+295.005	0.0	nontarget	5	295005	c	0	19.0	n/a	n/a	1
+296.954	0.0	nontarget	5	296954	a	0	14.0	n/a	n/a	1
+299.488	0.0	nontarget	5	299488	b	0	49.0	n/a	n/a	1
+302.038	0.0	nontarget	5	302038	u	0	50.0	n/a	n/a	1
+304.521	0.0	nontarget	5	304521	l	0	46.0	n/a	n/a	1
+307.071	0.0	nontarget	5	307071	ü	0	50.0	n/a	n/a	1
+309.604	0.0	nontarget	5	309604	d	0	49.0	n/a	n/a	1
+311.804	0.0	nontarget	5	311804	ö	0	29.0	n/a	n/a	1
+313.87	0.0	nontarget	5	313870	a	0	21.0	n/a	n/a	1
+315.92	0.0	nontarget	5	315920	b	0	20.0	n/a	n/a	1
+318.254	0.0	nontarget	5	318254	k	0	37.0	n/a	n/a	1
+320.237	0.0	nontarget	5	320237	m	0	16.0	n/a	n/a	1
+322.787	0.0	nontarget	5	322787	e	0	50.0	n/a	n/a	1
+325.22	0.0	nontarget	5	325220	u	0	43.0	n/a	n/a	1
+327.62	0.0	target	6	327620	h	1	41.0	1	0.5127509	1
+327.987	0.5	BAD keypress	2	327987	n/a	n/a	n/a	n/a	n/a	n/a
+328.237	0.0	keypress	4	328237	n/a	n/a	n/a	n/a	n/a	n/a
+329.736	0.0	nontarget	5	329736	a	0	31.0	n/a	n/a	1
+331.753	0.0	nontarget	5	331753	h	0	18.0	n/a	n/a	1
+333.77	0.0	nontarget	5	333770	m	0	18.0	n/a	n/a	1
+336.186	0.0	nontarget	5	336186	y	0	42.0	n/a	n/a	1
+338.603	0.0	target	6	338603	l	1	42.0	1	0.4891295	1
+338.969	0.5	BAD keypress	2	338969	n/a	n/a	n/a	n/a	n/a	n/a
+339.219	0.0	keypress	4	339219	n/a	n/a	n/a	n/a	n/a	n/a
+340.519	0.0	nontarget	5	340519	b	0	19.0	n/a	n/a	1
+342.486	0.0	nontarget	5	342486	r	0	15.0	n/a	n/a	1
+345.002	0.0	nontarget	5	345002	c	0	48.0	n/a	n/a	1
+347.069	0.0	target	6	347069	a	1	21.0	1	0.5024425	1
+347.402	0.5	BAD keypress	2	347402	n/a	n/a	n/a	n/a	n/a	n/a
+347.652	0.0	keypress	4	347652	n/a	n/a	n/a	n/a	n/a	n/a
+348.752	14.0	BAD_break	3	348752	n/a	n/a	n/a	n/a	n/a	n/a
+363.252	0.0	target	6	363252	r	1	28.0	1	0.510638	2
+363.635	0.5	BAD keypress	2	363635	n/a	n/a	n/a	n/a	n/a	n/a
+363.885	0.0	keypress	4	363885	n/a	n/a	n/a	n/a	n/a	n/a
+365.201	0.0	nontarget	5	365201	z	0	19.0	n/a	n/a	2
+367.168	0.0	nontarget	5	367168	k	0	15.0	n/a	n/a	2
+369.685	0.0	nontarget	5	369685	v	0	48.0	n/a	n/a	2
+372.034	0.0	target	6	372034	c	1	38.0	1	0.5271598	2
+372.418	0.5	BAD keypress	2	372418	n/a	n/a	n/a	n/a	n/a	n/a
+372.668	0.0	keypress	4	372668	n/a	n/a	n/a	n/a	n/a	n/a
+374.018	0.0	target	6	374018	s	1	22.0	1	0.4797398	2
+374.334	0.5	BAD keypress	2	374334	n/a	n/a	n/a	n/a	n/a	n/a
+374.584	0.0	keypress	4	374584	n/a	n/a	n/a	n/a	n/a	n/a
+375.851	0.0	nontarget	5	375851	y	0	17.0	n/a	n/a	2
+378.034	0.0	nontarget	5	378034	x	0	28.0	n/a	n/a	2
+380.134	0.0	nontarget	5	380134	v	0	23.0	n/a	n/a	2
+382.201	0.0	nontarget	5	382201	s	0	21.0	n/a	n/a	2
+384.317	0.0	nontarget	5	384317	g	0	24.0	n/a	n/a	2
+386.617	0.0	nontarget	5	386617	n	0	35.0	n/a	n/a	2
+388.867	0.0	nontarget	5	388867	y	0	32.0	n/a	n/a	2
+391.05	0.0	nontarget	5	391050	l	0	28.0	n/a	n/a	2
+393.533	0.0	nontarget	5	393533	x	0	46.0	n/a	n/a	2
+395.967	0.0	nontarget	5	395967	g	0	43.0	n/a	n/a	2
+398.183	0.0	nontarget	5	398183	i	0	30.0	n/a	n/a	2
+400.567	0.0	nontarget	5	400567	a	0	40.0	n/a	n/a	2
+402.75	0.0	nontarget	5	402750	q	0	28.0	n/a	n/a	2
+405.1	0.0	nontarget	5	405100	c	0	38.0	n/a	n/a	2
+407.433	0.0	nontarget	5	407433	k	0	37.0	n/a	n/a	2
+409.599	0.0	nontarget	5	409599	g	0	27.0	n/a	n/a	2
+411.949	0.0	nontarget	5	411949	ä	0	35.0	n/a	n/a	2
+414.083	0.0	nontarget	5	414083	q	0	25.0	n/a	n/a	2
+416.499	0.0	nontarget	5	416499	p	0	42.0	n/a	n/a	2
+418.832	0.0	nontarget	5	418832	m	0	37.0	n/a	n/a	2
+420.982	0.0	target	6	420982	t	1	26.0	1	0.488148	2
+421.332	0.5	BAD keypress	2	421332	n/a	n/a	n/a	n/a	n/a	n/a
+421.582	0.0	keypress	4	421582	n/a	n/a	n/a	n/a	n/a	n/a
+423.332	0.0	nontarget	5	423332	i	0	46.0	n/a	n/a	2
+425.599	0.0	nontarget	5	425599	ä	0	33.0	n/a	n/a	2
+427.949	0.0	nontarget	5	427949	ö	0	38.0	n/a	n/a	2
+430.082	0.0	nontarget	5	430082	o	0	25.0	n/a	n/a	2
+432.582	0.0	nontarget	5	432582	a	0	47.0	n/a	n/a	2
+434.565	0.0	nontarget	5	434565	l	0	16.0	n/a	n/a	2
+436.932	0.0	nontarget	5	436932	m	0	39.0	n/a	n/a	2
+439.431	0.0	nontarget	5	439431	e	0	47.0	n/a	n/a	2
+441.731	0.0	nontarget	5	441731	b	0	35.0	n/a	n/a	2
+443.731	0.0	nontarget	5	443731	z	0	17.0	n/a	n/a	2
+446.281	0.0	nontarget	5	446281	o	0	50.0	n/a	n/a	2
+448.581	0.0	target	6	448581	v	1	35.0	1	0.5673714	2
+449.014	0.5	BAD keypress	2	449014	n/a	n/a	n/a	n/a	n/a	n/a
+449.264	0.0	keypress	4	449264	n/a	n/a	n/a	n/a	n/a	n/a
+450.731	0.0	nontarget	5	450731	x	0	29.0	n/a	n/a	2
+452.681	0.0	target	6	452681	ä	1	14.0	1	0.5154243	2
+453.064	0.5	BAD keypress	2	453064	n/a	n/a	n/a	n/a	n/a	n/a
+453.314	0.0	keypress	4	453314	n/a	n/a	n/a	n/a	n/a	n/a
+454.631	0.0	target	6	454631	o	1	20.0	0	n/a	2
+457.397	0.0	target	6	457397	x	1	32.0	1	0.454621	2
+457.697	0.5	BAD keypress	2	457697	n/a	n/a	n/a	n/a	n/a	n/a
+457.947	0.0	keypress	4	457947	n/a	n/a	n/a	n/a	n/a	n/a
+459.331	0.0	nontarget	5	459331	m	0	24.0	n/a	n/a	2
+461.78	0.0	nontarget	5	461780	ü	0	44.0	n/a	n/a	2
+464.18	0.0	nontarget	5	464180	f	0	41.0	n/a	n/a	2
+466.397	0.0	target	6	466397	r	1	30.0	1	0.4305108	2
+466.68	0.5	BAD keypress	2	466680	n/a	n/a	n/a	n/a	n/a	n/a
+466.93	0.0	keypress	4	466930	n/a	n/a	n/a	n/a	n/a	n/a
+468.463	0.0	nontarget	5	468463	ä	0	33.0	n/a	n/a	2
+470.763	0.0	target	6	470763	m	1	35.0	1	0.3996584	2
+471.03	0.5	BAD keypress	2	471030	n/a	n/a	n/a	n/a	n/a	n/a
+471.28	0.0	keypress	4	471280	n/a	n/a	n/a	n/a	n/a	n/a
+472.963	0.0	nontarget	5	472963	k	0	42.0	n/a	n/a	2
+475.38	0.0	nontarget	5	475380	j	0	42.0	n/a	n/a	2
+477.763	0.0	nontarget	5	477763	u	0	40.0	n/a	n/a	2
+479.863	0.0	nontarget	5	479863	ß	0	23.0	n/a	n/a	2
+481.83	0.0	nontarget	5	481830	s	0	15.0	n/a	n/a	2
+484.329	0.0	nontarget	5	484329	w	0	47.0	n/a	n/a	2
+486.596	0.0	nontarget	5	486596	k	0	33.0	n/a	n/a	2
+489.013	0.0	nontarget	5	489013	l	0	42.0	n/a	n/a	2
+491.296	0.0	nontarget	5	491296	f	0	34.0	n/a	n/a	2
+493.679	0.0	target	6	493679	b	1	40.0	1	0.4745236	2
+494.012	0.5	BAD keypress	2	494012	n/a	n/a	n/a	n/a	n/a	n/a
+494.262	0.0	keypress	4	494262	n/a	n/a	n/a	n/a	n/a	n/a
+495.529	0.0	nontarget	5	495529	p	0	17.0	n/a	n/a	2
+497.679	0.0	nontarget	5	497679	s	0	26.0	n/a	n/a	2
+500.079	0.0	nontarget	5	500079	u	0	41.0	n/a	n/a	2
+502.329	0.0	nontarget	5	502329	y	0	32.0	n/a	n/a	2
+504.295	0.0	nontarget	5	504295	e	0	15.0	n/a	n/a	2
+506.478	0.0	target	6	506478	y	1	28.0	1	0.4102083	2
+506.729	0.5	BAD keypress	2	506729	n/a	n/a	n/a	n/a	n/a	n/a
+506.979	0.0	keypress	4	506979	n/a	n/a	n/a	n/a	n/a	n/a
+508.512	0.0	nontarget	5	508512	r	0	33.0	n/a	n/a	2
+509.612	23.315	BAD_break	3	509612	n/a	n/a	n/a	n/a	n/a	n/a
+533.427	0.0	nontarget	5	533427	l	0	48.0	n/a	n/a	3
+535.96	0.0	nontarget	5	535960	d	0	49.0	n/a	n/a	3
+538.394	0.0	nontarget	5	538394	ö	0	43.0	n/a	n/a	3
+540.527	0.0	nontarget	5	540527	b	0	25.0	n/a	n/a	3
+542.493	0.0	nontarget	5	542493	c	0	15.0	n/a	n/a	3
+544.943	0.0	nontarget	5	544943	f	0	44.0	n/a	n/a	3
+547.16	0.0	nontarget	5	547160	w	0	30.0	n/a	n/a	3
+549.66	0.0	nontarget	5	549660	n	0	47.0	n/a	n/a	3
+551.776	0.0	nontarget	5	551776	a	0	24.0	n/a	n/a	3
+553.76	0.0	nontarget	5	553760	d	0	16.0	n/a	n/a	3
+556.143	0.0	target	6	556143	c	1	40.0	1	0.5504476	3
+556.56	0.5	BAD keypress	2	556560	n/a	n/a	n/a	n/a	n/a	n/a
+556.81	0.0	keypress	4	556810	n/a	n/a	n/a	n/a	n/a	n/a
+558.243	0.0	nontarget	5	558243	o	0	27.0	n/a	n/a	3
+560.426	0.0	nontarget	5	560426	i	0	28.0	n/a	n/a	3
+562.476	0.0	nontarget	5	562476	ö	0	20.0	n/a	n/a	3
+565.009	0.0	nontarget	5	565009	e	0	49.0	n/a	n/a	3
+567.376	0.0	target	6	567376	ä	1	39.0	1	0.4048354	3
+567.642	0.5	BAD keypress	2	567642	n/a	n/a	n/a	n/a	n/a	n/a
+567.892	0.0	keypress	4	567892	n/a	n/a	n/a	n/a	n/a	n/a
+569.209	0.0	nontarget	5	569209	v	0	20.0	n/a	n/a	3
+571.326	0.0	nontarget	5	571326	s	0	24.0	n/a	n/a	3
+573.592	0.0	nontarget	5	573592	ü	0	33.0	n/a	n/a	3
+576.059	0.0	target	6	576059	x	1	45.0	1	0.4893033	3
+576.425	0.5	BAD keypress	2	576425	n/a	n/a	n/a	n/a	n/a	n/a
+576.675	0.0	keypress	4	576675	n/a	n/a	n/a	n/a	n/a	n/a
+578.109	0.0	nontarget	5	578109	u	0	27.0	n/a	n/a	3
+580.208	0.0	nontarget	5	580208	y	0	23.0	n/a	n/a	3
+582.592	0.0	target	6	582592	n	1	40.0	1	0.4039178	3
+582.842	0.5	BAD keypress	2	582842	n/a	n/a	n/a	n/a	n/a	n/a
+583.092	0.0	keypress	4	583092	n/a	n/a	n/a	n/a	n/a	n/a
+584.858	0.0	nontarget	5	584858	ä	0	47.0	n/a	n/a	3
+587.175	0.0	nontarget	5	587175	v	0	36.0	n/a	n/a	3
+589.308	0.0	nontarget	5	589308	y	0	25.0	n/a	n/a	3
+591.808	0.0	nontarget	5	591808	r	0	47.0	n/a	n/a	3
+594.308	0.0	nontarget	5	594308	q	0	47.0	n/a	n/a	3
+596.408	0.0	nontarget	5	596408	l	0	23.0	n/a	n/a	3
+598.474	0.0	target	6	598474	j	1	21.0	1	0.4881033	3
+598.824	0.5	BAD keypress	2	598824	n/a	n/a	n/a	n/a	n/a	n/a
+599.074	0.0	keypress	4	599074	n/a	n/a	n/a	n/a	n/a	n/a
+600.808	0.0	nontarget	5	600808	o	0	45.0	n/a	n/a	3
+603.191	0.0	nontarget	5	603191	v	0	40.0	n/a	n/a	3
+605.324	0.0	nontarget	5	605324	z	0	25.0	n/a	n/a	3
+607.307	0.0	target	6	607307	e	1	16.0	1	0.4866583	3
+607.641	0.5	BAD keypress	2	607641	n/a	n/a	n/a	n/a	n/a	n/a
+607.891	0.0	keypress	4	607891	n/a	n/a	n/a	n/a	n/a	n/a
+609.574	0.0	target	6	609574	i	1	42.0	1	0.5559095	3
+610.007	0.5	BAD keypress	2	610007	n/a	n/a	n/a	n/a	n/a	n/a
+610.257	0.0	keypress	4	610257	n/a	n/a	n/a	n/a	n/a	n/a
+611.74	0.0	nontarget	5	611740	v	0	30.0	n/a	n/a	3
+614.257	0.0	nontarget	5	614257	t	0	48.0	n/a	n/a	3
+616.357	0.0	target	6	616357	b	1	23.0	1	0.4603832	3
+616.674	0.5	BAD keypress	2	616674	n/a	n/a	n/a	n/a	n/a	n/a
+616.924	0.0	keypress	4	616924	n/a	n/a	n/a	n/a	n/a	n/a
+618.607	0.0	target	6	618607	p	1	41.0	1	0.546315	3
+619.024	0.5	BAD keypress	2	619024	n/a	n/a	n/a	n/a	n/a	n/a
+619.274	0.0	keypress	4	619274	n/a	n/a	n/a	n/a	n/a	n/a
+620.707	0.0	nontarget	5	620707	ü	0	27.0	n/a	n/a	3
+623.207	0.0	nontarget	5	623207	l	0	47.0	n/a	n/a	3
+625.756	0.0	target	6	625756	y	1	50.0	1	0.4202749	3
+626.04	0.5	BAD keypress	2	626040	n/a	n/a	n/a	n/a	n/a	n/a
+626.29	0.0	keypress	4	626290	n/a	n/a	n/a	n/a	n/a	n/a
+627.623	0.0	nontarget	5	627623	o	0	21.0	n/a	n/a	3
+629.856	0.0	nontarget	5	629856	z	0	31.0	n/a	n/a	3
+631.873	0.0	nontarget	5	631873	d	0	18.0	n/a	n/a	3
+633.856	0.0	nontarget	5	633856	h	0	16.0	n/a	n/a	3
+635.806	0.0	nontarget	5	635806	i	0	14.0	n/a	n/a	3
+637.989	0.0	nontarget	5	637989	ä	0	28.0	n/a	n/a	3
+640.056	0.0	nontarget	5	640056	e	0	21.0	n/a	n/a	3
+642.056	0.0	nontarget	5	642056	w	0	17.0	n/a	n/a	3
+644.422	0.0	nontarget	5	644422	o	0	39.0	n/a	n/a	3
+646.506	0.0	nontarget	5	646506	t	0	22.0	n/a	n/a	3
+648.572	0.0	target	6	648572	w	1	21.0	1	0.4510575	3
+648.889	0.5	BAD keypress	2	648889	n/a	n/a	n/a	n/a	n/a	n/a
+649.139	0.0	keypress	4	649139	n/a	n/a	n/a	n/a	n/a	n/a
+650.355	0.0	nontarget	5	650355	m	0	14.0	n/a	n/a	3
+652.405	0.0	nontarget	5	652405	ü	0	20.0	n/a	n/a	3
+654.622	0.0	nontarget	5	654622	v	0	30.0	n/a	n/a	3
+656.638	0.0	nontarget	5	656638	z	0	18.0	n/a	n/a	3
+658.605	0.0	nontarget	5	658605	p	0	15.0	n/a	n/a	3
+660.972	0.0	nontarget	5	660972	g	0	39.0	n/a	n/a	3
+663.521	0.0	nontarget	5	663521	h	0	50.0	n/a	n/a	3
+665.521	0.0	nontarget	5	665521	ä	0	17.0	n/a	n/a	3
+667.721	0.0	nontarget	5	667721	u	0	29.0	n/a	n/a	3
+670.038	0.0	target	6	670038	x	1	36.0	1	0.4079617	3
+670.305	0.5	BAD keypress	2	670305	n/a	n/a	n/a	n/a	n/a	n/a
+670.555	0.0	keypress	4	670555	n/a	n/a	n/a	n/a	n/a	n/a
+672.121	0.0	nontarget	5	672121	i	0	35.0	n/a	n/a	3
+674.521	0.0	nontarget	5	674521	n	0	41.0	n/a	n/a	3
+676.604	0.0	nontarget	5	676604	ß	0	22.0	n/a	n/a	3
+677.704	21.46599999999989	BAD_break	3	677704	n/a	n/a	n/a	n/a	n/a	n/a
+699.67	0.0	nontarget	5	699670	p	0	43.0	n/a	n/a	4
+701.803	0.0	nontarget	5	701803	u	0	25.0	n/a	n/a	4
+704.203	0.0	nontarget	5	704203	x	0	41.0	n/a	n/a	4
+706.586	0.0	nontarget	5	706586	w	0	40.0	n/a	n/a	4
+708.686	0.0	nontarget	5	708686	r	0	23.0	n/a	n/a	4
+711.069	0.0	target	6	711069	e	1	40.0	1	0.445641	4
+711.386	0.5	BAD keypress	2	711386	n/a	n/a	n/a	n/a	n/a	n/a
+711.636	0.0	keypress	4	711636	n/a	n/a	n/a	n/a	n/a	n/a
+713.286	0.0	nontarget	5	713286	c	0	40.0	n/a	n/a	4
+715.552	0.0	nontarget	5	715552	d	0	33.0	n/a	n/a	4
+717.552	0.0	target	6	717552	s	1	17.0	1	0.4421745	4
+717.886	0.5	BAD keypress	2	717886	n/a	n/a	n/a	n/a	n/a	n/a
+718.136	0.0	keypress	4	718136	n/a	n/a	n/a	n/a	n/a	n/a
+719.852	0.0	nontarget	5	719852	j	0	43.0	n/a	n/a	4
+721.886	0.0	nontarget	5	721886	e	0	19.0	n/a	n/a	4
+724.052	0.0	nontarget	5	724052	r	0	27.0	n/a	n/a	4
+726.085	0.0	nontarget	5	726085	k	0	19.0	n/a	n/a	4
+728.319	0.0	nontarget	5	728319	h	0	31.0	n/a	n/a	4
+730.702	0.0	nontarget	5	730702	q	0	40.0	n/a	n/a	4
+733.185	0.0	nontarget	5	733185	n	0	46.0	n/a	n/a	4
+735.285	0.0	nontarget	5	735285	l	0	23.0	n/a	n/a	4
+737.368	0.0	target	6	737368	h	1	22.0	1	0.4171292	4
+737.668	0.5	BAD keypress	2	737668	n/a	n/a	n/a	n/a	n/a	n/a
+737.918	0.0	keypress	4	737918	n/a	n/a	n/a	n/a	n/a	n/a
+739.651	0.0	nontarget	5	739651	t	0	45.0	n/a	n/a	4
+742.168	0.0	nontarget	5	742168	ß	0	48.0	n/a	n/a	4
+744.701	0.0	nontarget	5	744701	o	0	49.0	n/a	n/a	4
+746.834	0.0	nontarget	5	746834	s	0	25.0	n/a	n/a	4
+748.951	0.0	nontarget	5	748951	ä	0	24.0	n/a	n/a	4
+751.168	0.0	nontarget	5	751168	i	0	30.0	n/a	n/a	4
+753.651	0.0	nontarget	5	753651	y	0	46.0	n/a	n/a	4
+755.651	0.0	nontarget	5	755651	ö	0	17.0	n/a	n/a	4
+757.901	0.0	nontarget	5	757901	j	0	32.0	n/a	n/a	4
+760.4	0.0	nontarget	5	760400	d	0	47.0	n/a	n/a	4
+762.467	0.0	target	6	762467	m	1	21.0	1	0.4364937	4
+762.767	0.5	BAD keypress	2	762767	n/a	n/a	n/a	n/a	n/a	n/a
+763.017	0.0	keypress	4	763017	n/a	n/a	n/a	n/a	n/a	n/a
+764.65	0.0	nontarget	5	764650	i	0	39.0	n/a	n/a	4
+767.184	0.0	nontarget	5	767184	c	0	49.0	n/a	n/a	4
+769.433	0.0	nontarget	5	769433	k	0	32.0	n/a	n/a	4
+771.533	0.0	target	6	771533	c	1	23.0	1	0.4416012	4
+771.817	0.5	BAD keypress	2	771817	n/a	n/a	n/a	n/a	n/a	n/a
+772.067	0.0	keypress	4	772067	n/a	n/a	n/a	n/a	n/a	n/a
+773.867	0.0	target	6	773867	k	1	48.0	1	0.4122823	4
+774.133	0.5	BAD keypress	2	774133	n/a	n/a	n/a	n/a	n/a	n/a
+774.383	0.0	keypress	4	774383	n/a	n/a	n/a	n/a	n/a	n/a
+775.733	0.0	target	6	775733	n	1	22.0	1	0.4175015	4
+776.017	0.5	BAD keypress	2	776017	n/a	n/a	n/a	n/a	n/a	n/a
+776.267	0.0	keypress	4	776267	n/a	n/a	n/a	n/a	n/a	n/a
+777.883	0.0	nontarget	5	777883	j	0	38.0	n/a	n/a	4
+780.266	0.0	nontarget	5	780266	u	0	40.0	n/a	n/a	4
+782.216	0.0	nontarget	5	782216	y	0	14.0	n/a	n/a	4
+784.299	0.0	nontarget	5	784299	o	0	22.0	n/a	n/a	4
+786.783	0.0	nontarget	5	786783	s	0	46.0	n/a	n/a	4
+789.099	0.0	target	6	789099	u	1	36.0	1	0.4425256	4
+789.366	0.5	BAD keypress	2	789366	n/a	n/a	n/a	n/a	n/a	n/a
+789.616	0.0	keypress	4	789616	n/a	n/a	n/a	n/a	n/a	n/a
+791.399	0.0	nontarget	5	791399	a	0	48.0	n/a	n/a	4
+793.866	0.0	nontarget	5	793866	d	0	45.0	n/a	n/a	4
+796.332	0.0	nontarget	5	796332	o	0	45.0	n/a	n/a	4
+798.282	0.0	nontarget	5	798282	n	0	14.0	n/a	n/a	4
+800.399	0.0	nontarget	5	800399	y	0	24.0	n/a	n/a	4
+802.349	0.0	nontarget	5	802349	a	0	14.0	n/a	n/a	4
+804.699	0.0	target	6	804699	c	1	38.0	1	0.4581959	4
+805.032	0.5	BAD keypress	2	805032	n/a	n/a	n/a	n/a	n/a	n/a
+805.282	0.0	keypress	4	805282	n/a	n/a	n/a	n/a	n/a	n/a
+806.715	0.0	nontarget	5	806715	h	0	27.0	n/a	n/a	4
+809.165	0.0	nontarget	5	809165	z	0	44.0	n/a	n/a	4
+811.382	0.0	nontarget	5	811382	u	0	30.0	n/a	n/a	4
+813.698	0.0	nontarget	5	813698	n	0	36.0	n/a	n/a	4
+815.765	0.0	nontarget	5	815765	k	0	21.0	n/a	n/a	4
+817.731	0.0	target	6	817731	w	1	15.0	1	0.4326617	4
+818.031	0.5	BAD keypress	2	818031	n/a	n/a	n/a	n/a	n/a	n/a
+818.281	0.0	keypress	4	818281	n/a	n/a	n/a	n/a	n/a	n/a
+819.765	0.0	nontarget	5	819765	t	0	30.0	n/a	n/a	4
+822.014	0.0	nontarget	5	822014	j	0	32.0	n/a	n/a	4
+824.448	0.0	nontarget	5	824448	z	0	43.0	n/a	n/a	4
+826.964	0.0	target	6	826964	l	1	48.0	1	0.4310364	4
+827.281	0.5	BAD keypress	2	827281	n/a	n/a	n/a	n/a	n/a	n/a
+827.531	0.0	keypress	4	827531	n/a	n/a	n/a	n/a	n/a	n/a
+828.814	0.0	nontarget	5	828814	e	0	18.0	n/a	n/a	4
+831.364	0.0	nontarget	5	831364	ü	0	50.0	n/a	n/a	4
+833.431	0.0	nontarget	5	833431	r	0	21.0	n/a	n/a	4
+835.431	0.0	nontarget	5	835431	m	0	17.0	n/a	n/a	4
+837.964	0.0	nontarget	5	837964	z	0	49.0	n/a	n/a	4
+840.097	0.0	nontarget	5	840097	ü	0	25.0	n/a	n/a	4
+842.647	0.0	nontarget	5	842647	p	0	50.0	n/a	n/a	4
+845.047	0.0	nontarget	5	845047	a	0	41.0	n/a	n/a	4
+846.147	18.216000000000008	BAD_break	3	846147	n/a	n/a	n/a	n/a	n/a	n/a
+864.863	0.0	target	6	864863	i	1	29.0	1	0.4821655	5
+865.279	0.5	BAD keypress	2	865279	n/a	n/a	n/a	n/a	n/a	n/a
+865.529	0.0	keypress	4	865529	n/a	n/a	n/a	n/a	n/a	n/a
+866.929	0.0	nontarget	5	866929	c	0	24.0	n/a	n/a	5
+869.379	0.0	nontarget	5	869379	j	0	44.0	n/a	n/a	5
+871.496	0.0	nontarget	5	871496	y	0	24.0	n/a	n/a	5
+873.929	0.0	nontarget	5	873929	w	0	43.0	n/a	n/a	5
+876.129	0.0	nontarget	5	876129	ß	0	29.0	n/a	n/a	5
+878.529	0.0	nontarget	5	878529	s	0	41.0	n/a	n/a	5
+880.979	0.0	nontarget	5	880979	f	0	44.0	n/a	n/a	5
+883.212	0.0	nontarget	5	883212	v	0	31.0	n/a	n/a	5
+885.595	0.0	nontarget	5	885595	ö	0	40.0	n/a	n/a	5
+887.762	0.0	nontarget	5	887762	s	0	27.0	n/a	n/a	5
+889.995	0.0	nontarget	5	889995	x	0	31.0	n/a	n/a	5
+892.345	0.0	nontarget	5	892345	m	0	38.0	n/a	n/a	5
+894.495	0.0	nontarget	5	894495	b	0	26.0	n/a	n/a	5
+896.544	0.0	nontarget	5	896544	u	0	20.0	n/a	n/a	5
+898.994	0.0	nontarget	5	898994	a	0	44.0	n/a	n/a	5
+901.361	0.0	target	6	901361	ü	1	39.0	1	0.4933605	5
+901.744	0.5	BAD keypress	2	901744	n/a	n/a	n/a	n/a	n/a	n/a
+901.994	0.0	keypress	4	901994	n/a	n/a	n/a	n/a	n/a	n/a
+903.544	0.0	nontarget	5	903544	m	0	34.0	n/a	n/a	5
+905.494	0.0	nontarget	5	905494	y	0	14.0	n/a	n/a	5
+907.711	0.0	target	6	907711	i	1	30.0	1	0.4952373	5
+908.094	0.5	BAD keypress	2	908094	n/a	n/a	n/a	n/a	n/a	n/a
+908.344	0.0	keypress	4	908344	n/a	n/a	n/a	n/a	n/a	n/a
+909.694	0.0	nontarget	5	909694	r	0	21.0	n/a	n/a	5
+911.894	0.0	target	6	911894	r	1	29.0	1	0.3918016	5
+912.194	0.5	BAD keypress	2	912194	n/a	n/a	n/a	n/a	n/a	n/a
+912.444	0.0	keypress	4	912444	n/a	n/a	n/a	n/a	n/a	n/a
+914.044	0.0	nontarget	5	914044	ü	0	37.0	n/a	n/a	5
+916.427	0.0	target	6	916427	p	1	40.0	1	0.3384069	5
+916.66	0.5	BAD keypress	2	916660	n/a	n/a	n/a	n/a	n/a	n/a
+916.91	0.0	keypress	4	916910	n/a	n/a	n/a	n/a	n/a	n/a
+918.21	0.0	nontarget	5	918210	ö	0	19.0	n/a	n/a	5
+920.36	0.0	nontarget	5	920360	y	0	26.0	n/a	n/a	5
+922.543	0.0	nontarget	5	922543	t	0	28.0	n/a	n/a	5
+924.86	0.0	nontarget	5	924860	i	0	36.0	n/a	n/a	5
+927.376	0.0	nontarget	5	927376	q	0	48.0	n/a	n/a	5
+929.676	0.0	nontarget	5	929676	n	0	35.0	n/a	n/a	5
+931.626	0.0	nontarget	5	931626	o	0	14.0	n/a	n/a	5
+934.143	0.0	target	6	934143	o	1	48.0	1	0.4292398	5
+934.46	0.5	BAD keypress	2	934460	n/a	n/a	n/a	n/a	n/a	n/a
+934.71	0.0	keypress	4	934710	n/a	n/a	n/a	n/a	n/a	n/a
+936.409	0.0	nontarget	5	936409	v	0	43.0	n/a	n/a	5
+938.709	0.0	target	6	938709	i	1	35.0	1	0.4225093	5
+939.009	0.5	BAD keypress	2	939009	n/a	n/a	n/a	n/a	n/a	n/a
+939.259	0.0	keypress	4	939259	n/a	n/a	n/a	n/a	n/a	n/a
+940.526	0.0	nontarget	5	940526	g	0	17.0	n/a	n/a	5
+942.826	0.0	nontarget	5	942826	s	0	35.0	n/a	n/a	5
+945.359	0.0	nontarget	5	945359	j	0	49.0	n/a	n/a	5
+947.459	0.0	nontarget	5	947459	e	0	23.0	n/a	n/a	5
+949.409	0.0	nontarget	5	949409	k	0	14.0	n/a	n/a	5
+951.725	0.0	nontarget	5	951725	q	0	36.0	n/a	n/a	5
+953.825	0.0	nontarget	5	953825	c	0	23.0	n/a	n/a	5
+955.809	0.0	nontarget	5	955809	d	0	16.0	n/a	n/a	5
+958.075	0.0	nontarget	5	958075	ß	0	33.0	n/a	n/a	5
+960.542	0.0	nontarget	5	960542	y	0	45.0	n/a	n/a	5
+962.875	0.0	nontarget	5	962875	ö	0	37.0	n/a	n/a	5
+965.041	0.0	nontarget	5	965041	z	0	27.0	n/a	n/a	5
+967.291	0.0	nontarget	5	967291	w	0	32.0	n/a	n/a	5
+969.558	0.0	nontarget	5	969558	b	0	33.0	n/a	n/a	5
+971.924	0.0	target	6	971924	d	1	39.0	1	0.3891063	5
+972.191	0.5	BAD keypress	2	972191	n/a	n/a	n/a	n/a	n/a	n/a
+972.441	0.0	keypress	4	972441	n/a	n/a	n/a	n/a	n/a	n/a
+974.108	0.0	target	6	974108	y	1	41.0	1	0.4454953	5
+974.408	0.5	BAD keypress	2	974408	n/a	n/a	n/a	n/a	n/a	n/a
+974.658	0.0	keypress	4	974658	n/a	n/a	n/a	n/a	n/a	n/a
+976.074	0.0	nontarget	5	976074	o	0	26.0	n/a	n/a	5
+978.141	0.0	nontarget	5	978141	t	0	21.0	n/a	n/a	5
+980.657	0.0	nontarget	5	980657	q	0	48.0	n/a	n/a	5
+982.607	0.0	nontarget	5	982607	e	0	14.0	n/a	n/a	5
+984.557	0.0	nontarget	5	984557	i	0	14.0	n/a	n/a	5
+986.574	0.0	target	6	986574	s	1	18.0	1	0.4427716	5
+986.907	0.5	BAD keypress	2	986907	n/a	n/a	n/a	n/a	n/a	n/a
+987.157	0.0	keypress	4	987157	n/a	n/a	n/a	n/a	n/a	n/a
+988.69	0.0	nontarget	5	988690	b	0	33.0	n/a	n/a	5
+990.907	0.0	nontarget	5	990907	j	0	30.0	n/a	n/a	5
+993.007	0.0	nontarget	5	993007	x	0	23.0	n/a	n/a	5
+995.04	0.0	target	6	995040	l	1	19.0	1	0.4558796	5
+995.374	0.5	BAD keypress	2	995374	n/a	n/a	n/a	n/a	n/a	n/a
+995.624	0.0	keypress	4	995624	n/a	n/a	n/a	n/a	n/a	n/a
+997.123	0.0	nontarget	5	997123	q	0	31.0	n/a	n/a	5
+999.24	0.0	nontarget	5	999240	i	0	24.0	n/a	n/a	5
+1001.44	0.0	nontarget	5	1001440	g	0	29.0	n/a	n/a	5
+1003.823	0.0	nontarget	5	1003823	a	0	40.0	n/a	n/a	5
+1005.79	0.0	nontarget	5	1005790	u	0	15.0	n/a	n/a	5
+1007.773	0.0	nontarget	5	1007773	m	0	16.0	n/a	n/a	5
+1008.873	18.51599999999985	BAD_break	3	1008873	n/a	n/a	n/a	n/a	n/a	n/a
+1027.889	0.0	nontarget	5	1027889	ß	0	46.0	n/a	n/a	6
+1029.939	0.0	target	6	1029939	j	1	20.0	1	0.4991696	6
+1030.372	0.5	BAD keypress	2	1030372	n/a	n/a	n/a	n/a	n/a	n/a
+1030.622	0.0	keypress	4	1030622	n/a	n/a	n/a	n/a	n/a	n/a
+1032.022	0.0	nontarget	5	1032022	b	0	25.0	n/a	n/a	6
+1034.038	0.0	nontarget	5	1034038	w	0	18.0	n/a	n/a	6
+1035.988	0.0	nontarget	5	1035988	a	0	14.0	n/a	n/a	6
+1038.172	0.0	nontarget	5	1038172	ö	0	28.0	n/a	n/a	6
+1040.638	0.0	nontarget	5	1040638	m	0	45.0	n/a	n/a	6
+1042.805	0.0	nontarget	5	1042805	h	0	27.0	n/a	n/a	6
+1044.838	0.0	target	6	1044838	u	1	19.0	1	0.4306746	6
+1045.171	0.5	BAD keypress	2	1045171	n/a	n/a	n/a	n/a	n/a	n/a
+1045.421	0.0	keypress	4	1045421	n/a	n/a	n/a	n/a	n/a	n/a
+1046.921	0.0	nontarget	5	1046921	ö	0	31.0	n/a	n/a	6
+1048.921	0.0	nontarget	5	1048921	v	0	17.0	n/a	n/a	6
+1050.954	0.0	target	6	1050954	m	1	19.0	1	0.3938813	6
+1051.238	0.5	BAD keypress	2	1051238	n/a	n/a	n/a	n/a	n/a	n/a
+1051.488	0.0	keypress	4	1051488	n/a	n/a	n/a	n/a	n/a	n/a
+1052.738	0.0	nontarget	5	1052738	w	0	16.0	n/a	n/a	6
+1054.738	0.0	nontarget	5	1054738	t	0	17.0	n/a	n/a	6
+1056.704	0.0	nontarget	5	1056704	ü	0	15.0	n/a	n/a	6
+1059.187	0.0	nontarget	5	1059187	d	0	46.0	n/a	n/a	6
+1061.454	0.0	nontarget	5	1061454	n	0	33.0	n/a	n/a	6
+1063.637	0.0	nontarget	5	1063637	h	0	28.0	n/a	n/a	6
+1066.087	0.0	nontarget	5	1066087	ö	0	44.0	n/a	n/a	6
+1068.57	0.0	nontarget	5	1068570	q	0	46.0	n/a	n/a	6
+1070.703	0.0	nontarget	5	1070703	e	0	25.0	n/a	n/a	6
+1072.803	0.0	nontarget	5	1072803	ß	0	23.0	n/a	n/a	6
+1074.92	0.0	nontarget	5	1074920	x	0	24.0	n/a	n/a	6
+1076.97	0.0	nontarget	5	1076970	j	0	20.0	n/a	n/a	6
+1079.503	0.0	nontarget	5	1079503	b	0	49.0	n/a	n/a	6
+1081.87	0.0	target	6	1081870	q	1	39.0	1	0.5005363	6
+1082.253	0.5	BAD keypress	2	1082253	n/a	n/a	n/a	n/a	n/a	n/a
+1082.503	0.0	keypress	4	1082503	n/a	n/a	n/a	n/a	n/a	n/a
+1084.203	0.0	nontarget	5	1084203	o	0	43.0	n/a	n/a	6
+1086.653	0.0	nontarget	5	1086653	j	0	44.0	n/a	n/a	6
+1088.903	0.0	nontarget	5	1088903	ö	0	32.0	n/a	n/a	6
+1090.986	0.0	nontarget	5	1090986	f	0	22.0	n/a	n/a	6
+1093.336	0.0	nontarget	5	1093336	c	0	38.0	n/a	n/a	6
+1095.569	0.0	nontarget	5	1095569	o	0	31.0	n/a	n/a	6
+1097.619	0.0	nontarget	5	1097619	j	0	20.0	n/a	n/a	6
+1099.952	0.0	nontarget	5	1099952	h	0	37.0	n/a	n/a	6
+1102.002	0.0	nontarget	5	1102002	y	0	20.0	n/a	n/a	6
+1104.435	0.0	nontarget	5	1104435	p	0	43.0	n/a	n/a	6
+1106.519	0.0	target	6	1106519	h	1	22.0	1	0.4898933	6
+1106.885	0.5	BAD keypress	2	1106885	n/a	n/a	n/a	n/a	n/a	n/a
+1107.135	0.0	keypress	4	1107135	n/a	n/a	n/a	n/a	n/a	n/a
+1108.652	0.0	nontarget	5	1108652	l	0	32.0	n/a	n/a	6
+1111.002	0.0	nontarget	5	1111002	q	0	38.0	n/a	n/a	6
+1113.068	0.0	nontarget	5	1113068	f	0	21.0	n/a	n/a	6
+1115.402	0.0	target	6	1115402	a	1	37.0	1	0.5024735	6
+1115.785	0.5	BAD keypress	2	1115785	n/a	n/a	n/a	n/a	n/a	n/a
+1116.035	0.0	keypress	4	1116035	n/a	n/a	n/a	n/a	n/a	n/a
+1117.318	0.0	target	6	1117318	m	1	18.0	1	0.6017005	6
+1117.802	0.5	BAD keypress	2	1117802	n/a	n/a	n/a	n/a	n/a	n/a
+1118.052	0.0	keypress	4	1118052	n/a	n/a	n/a	n/a	n/a	n/a
+1119.751	0.0	nontarget	5	1119751	ö	0	43.0	n/a	n/a	6
+1122.101	0.0	nontarget	5	1122101	ß	0	38.0	n/a	n/a	6
+1124.534	0.0	nontarget	5	1124534	b	0	43.0	n/a	n/a	6
+1126.701	0.0	target	6	1126701	ä	1	27.0	1	0.5141803	6
+1127.118	0.5	BAD keypress	2	1127118	n/a	n/a	n/a	n/a	n/a	n/a
+1127.368	0.0	keypress	4	1127368	n/a	n/a	n/a	n/a	n/a	n/a
+1129.118	0.0	nontarget	5	1129118	g	0	45.0	n/a	n/a	6
+1131.634	0.0	target	6	1131634	i	1	48.0	1	0.3806974	6
+1131.918	0.5	BAD keypress	2	1131918	n/a	n/a	n/a	n/a	n/a	n/a
+1132.168	0.0	keypress	4	1132168	n/a	n/a	n/a	n/a	n/a	n/a
+1133.734	0.0	target	6	1133734	j	1	35.0	1	0.360635	6
+1134.001	0.5	BAD keypress	2	1134001	n/a	n/a	n/a	n/a	n/a	n/a
+1134.251	0.0	keypress	4	1134251	n/a	n/a	n/a	n/a	n/a	n/a
+1135.934	0.0	nontarget	5	1135934	f	0	42.0	n/a	n/a	6
+1138.267	0.0	target	6	1138267	v	1	37.0	1	0.4032016	6
+1138.567	0.5	BAD keypress	2	1138567	n/a	n/a	n/a	n/a	n/a	n/a
+1138.817	0.0	keypress	4	1138817	n/a	n/a	n/a	n/a	n/a	n/a
+1140.067	0.0	nontarget	5	1140067	k	0	16.0	n/a	n/a	6
+1142.05	0.0	nontarget	5	1142050	ä	0	16.0	n/a	n/a	6
+1144.117	0.0	target	6	1144117	q	1	21.0	1	0.4250728	6
+1144.45	0.5	BAD keypress	2	1144450	n/a	n/a	n/a	n/a	n/a	n/a
+1144.7	0.0	keypress	4	1144700	n/a	n/a	n/a	n/a	n/a	n/a
+1146.217	0.0	target	6	1146217	g	1	32.0	1	0.5170633	6
+1146.6	0.5	BAD keypress	2	1146600	n/a	n/a	n/a	n/a	n/a	n/a
+1146.85	0.0	keypress	4	1146850	n/a	n/a	n/a	n/a	n/a	n/a
+1148.533	0.0	nontarget	5	1148533	d	0	42.0	n/a	n/a	6
+1150.683	0.0	nontarget	5	1150683	n	0	26.0	n/a	n/a	6
+1153.067	0.0	nontarget	5	1153067	p	0	40.0	n/a	n/a	6
+1155.033	0.0	nontarget	5	1155033	e	0	15.0	n/a	n/a	6
+1156.983	0.0	nontarget	5	1156983	r	0	14.0	n/a	n/a	6
+1159.416	0.0	target	6	1159416	g	1	43.0	1	0.4046963	6
+1159.683	0.5	BAD keypress	2	1159683	n/a	n/a	n/a	n/a	n/a	n/a
+1159.933	0.0	keypress	4	1159933	n/a	n/a	n/a	n/a	n/a	n/a
+1161.716	0.0	nontarget	5	1161716	v	0	48.0	n/a	n/a	6
+1163.733	0.0	nontarget	5	1163733	d	0	18.0	n/a	n/a	6
+1166.116	0.0	nontarget	5	1166116	r	0	40.0	n/a	n/a	6
+1168.099	0.0	nontarget	5	1168099	t	0	16.0	n/a	n/a	6
+1170.049	0.0	nontarget	5	1170049	ß	0	14.0	n/a	n/a	6
+1171.149	22.682000000000016	BAD_break	3	1171149	n/a	n/a	n/a	n/a	n/a	n/a
+1194.331	0.0	nontarget	5	1194331	ü	0	26.0	n/a	n/a	7
+1196.598	0.0	nontarget	5	1196598	s	0	33.0	n/a	n/a	7
+1199.031	0.0	nontarget	5	1199031	f	0	43.0	n/a	n/a	7
+1201.331	0.0	nontarget	5	1201331	y	0	35.0	n/a	n/a	7
+1203.398	0.0	nontarget	5	1203398	h	0	21.0	n/a	n/a	7
+1205.598	0.0	nontarget	5	1205598	o	0	29.0	n/a	n/a	7
+1207.631	0.0	nontarget	5	1207631	ä	0	19.0	n/a	n/a	7
+1209.864	0.0	nontarget	5	1209864	e	0	31.0	n/a	n/a	7
+1212.131	0.0	nontarget	5	1212131	j	0	33.0	n/a	n/a	7
+1214.414	0.0	nontarget	5	1214414	s	0	34.0	n/a	n/a	7
+1216.397	0.0	nontarget	5	1216397	m	0	16.0	n/a	n/a	7
+1218.48	0.0	target	6	1218480	k	1	22.0	1	0.4727069	7
+1218.864	0.5	BAD keypress	2	1218864	n/a	n/a	n/a	n/a	n/a	n/a
+1219.114	0.0	keypress	4	1219114	n/a	n/a	n/a	n/a	n/a	n/a
+1220.58	0.0	nontarget	5	1220580	w	0	28.0	n/a	n/a	7
+1222.897	0.0	nontarget	5	1222897	n	0	36.0	n/a	n/a	7
+1225.363	0.0	nontarget	5	1225363	g	0	45.0	n/a	n/a	7
+1227.363	0.0	nontarget	5	1227363	k	0	17.0	n/a	n/a	7
+1229.363	0.0	target	6	1229363	h	1	17.0	1	0.4050654	7
+1229.647	0.5	BAD keypress	2	1229647	n/a	n/a	n/a	n/a	n/a	n/a
+1229.897	0.0	keypress	4	1229897	n/a	n/a	n/a	n/a	n/a	n/a
+1231.563	0.0	nontarget	5	1231563	ß	0	41.0	n/a	n/a	7
+1233.896	0.0	target	6	1233896	e	1	37.0	1	0.4476057	7
+1234.263	0.5	BAD keypress	2	1234263	n/a	n/a	n/a	n/a	n/a	n/a
+1234.513	0.0	keypress	4	1234513	n/a	n/a	n/a	n/a	n/a	n/a
+1236.03	0.0	nontarget	5	1236030	h	0	32.0	n/a	n/a	7
+1238.129	0.0	nontarget	5	1238129	ö	0	23.0	n/a	n/a	7
+1240.079	0.0	target	6	1240079	a	1	14.0	1	0.4721836	7
+1240.413	0.5	BAD keypress	2	1240413	n/a	n/a	n/a	n/a	n/a	n/a
+1240.663	0.0	keypress	4	1240663	n/a	n/a	n/a	n/a	n/a	n/a
+1241.963	0.0	target	6	1241963	ä	1	19.0	1	0.3968585	7
+1242.263	0.5	BAD keypress	2	1242263	n/a	n/a	n/a	n/a	n/a	n/a
+1242.513	0.0	keypress	4	1242513	n/a	n/a	n/a	n/a	n/a	n/a
+1243.846	0.0	nontarget	5	1243846	q	0	21.0	n/a	n/a	7
+1246.062	0.0	nontarget	5	1246062	p	0	30.0	n/a	n/a	7
+1248.346	0.0	target	6	1248346	z	1	34.0	1	0.3653266	7
+1248.613	0.5	BAD keypress	2	1248613	n/a	n/a	n/a	n/a	n/a	n/a
+1248.863	0.0	keypress	4	1248863	n/a	n/a	n/a	n/a	n/a	n/a
+1250.396	0.0	nontarget	5	1250396	r	0	33.0	n/a	n/a	7
+1252.812	0.0	nontarget	5	1252812	m	0	42.0	n/a	n/a	7
+1254.945	0.0	nontarget	5	1254945	s	0	25.0	n/a	n/a	7
+1257.279	0.0	target	6	1257279	z	1	37.0	1	0.4077475	7
+1257.579	0.5	BAD keypress	2	1257579	n/a	n/a	n/a	n/a	n/a	n/a
+1257.829	0.0	keypress	4	1257829	n/a	n/a	n/a	n/a	n/a	n/a
+1259.312	0.0	nontarget	5	1259312	h	0	30.0	n/a	n/a	7
+1261.545	0.0	nontarget	5	1261545	d	0	31.0	n/a	n/a	7
+1263.712	0.0	nontarget	5	1263712	b	0	27.0	n/a	n/a	7
+1265.745	0.0	nontarget	5	1265745	ß	0	19.0	n/a	n/a	7
+1267.712	0.0	nontarget	5	1267712	g	0	15.0	n/a	n/a	7
+1269.945	0.0	nontarget	5	1269945	j	0	31.0	n/a	n/a	7
+1272.311	0.0	nontarget	5	1272311	f	0	39.0	n/a	n/a	7
+1274.428	0.0	nontarget	5	1274428	t	0	24.0	n/a	n/a	7
+1276.628	0.0	nontarget	5	1276628	l	0	29.0	n/a	n/a	7
+1278.694	0.0	nontarget	5	1278694	p	0	21.0	n/a	n/a	7
+1280.694	0.0	nontarget	5	1280694	x	0	17.0	n/a	n/a	7
+1283.194	0.0	target	6	1283194	t	1	47.0	1	0.5705136	7
+1283.628	0.5	BAD keypress	2	1283628	n/a	n/a	n/a	n/a	n/a	n/a
+1283.878	0.0	keypress	4	1283878	n/a	n/a	n/a	n/a	n/a	n/a
+1285.544	0.0	target	6	1285544	n	1	41.0	1	0.4764571	7
+1285.911	0.5	BAD keypress	2	1285911	n/a	n/a	n/a	n/a	n/a	n/a
+1286.161	0.0	keypress	4	1286161	n/a	n/a	n/a	n/a	n/a	n/a
+1287.511	0.0	nontarget	5	1287511	a	0	22.0	n/a	n/a	7
+1289.927	0.0	nontarget	5	1289927	c	0	42.0	n/a	n/a	7
+1291.894	0.0	nontarget	5	1291894	x	0	15.0	n/a	n/a	7
+1293.977	0.0	nontarget	5	1293977	ö	0	22.0	n/a	n/a	7
+1296.16	0.0	nontarget	5	1296160	b	0	28.0	n/a	n/a	7
+1298.344	0.0	nontarget	5	1298344	e	0	28.0	n/a	n/a	7
+1300.793	0.0	nontarget	5	1300793	g	0	44.0	n/a	n/a	7
+1303.31	0.0	nontarget	5	1303310	q	0	48.0	n/a	n/a	7
+1305.71	0.0	nontarget	5	1305710	y	0	41.0	n/a	n/a	7
+1308.093	0.0	nontarget	5	1308093	e	0	40.0	n/a	n/a	7
+1310.076	0.0	nontarget	5	1310076	r	0	16.0	n/a	n/a	7
+1312.093	0.0	target	6	1312093	o	1	18.0	1	0.4539054	7
+1312.443	0.5	BAD keypress	2	1312443	n/a	n/a	n/a	n/a	n/a	n/a
+1312.693	0.0	keypress	4	1312693	n/a	n/a	n/a	n/a	n/a	n/a
+1314.193	0.0	target	6	1314193	q	1	31.0	1	0.4658734	7
+1314.56	0.5	BAD keypress	2	1314560	n/a	n/a	n/a	n/a	n/a	n/a
+1314.81	0.0	keypress	4	1314810	n/a	n/a	n/a	n/a	n/a	n/a
+1316.276	0.0	target	6	1316276	e	1	29.0	1	0.4303464	7
+1316.626	0.5	BAD keypress	2	1316626	n/a	n/a	n/a	n/a	n/a	n/a
+1316.876	0.0	keypress	4	1316876	n/a	n/a	n/a	n/a	n/a	n/a
+1318.676	0.0	nontarget	5	1318676	y	0	49.0	n/a	n/a	7
+1321.026	0.0	nontarget	5	1321026	c	0	38.0	n/a	n/a	7
+1323.459	0.0	nontarget	5	1323459	j	0	43.0	n/a	n/a	7
+1325.742	0.0	target	6	1325742	l	1	34.0	1	0.4355496	7
+1326.092	0.5	BAD keypress	2	1326092	n/a	n/a	n/a	n/a	n/a	n/a
+1326.342	0.0	keypress	4	1326342	n/a	n/a	n/a	n/a	n/a	n/a
+1327.976	0.0	nontarget	5	1327976	x	0	39.0	n/a	n/a	7
+1330.425	0.0	nontarget	5	1330425	i	0	44.0	n/a	n/a	7
+1332.442	0.0	target	6	1332442	v	1	18.0	1	0.4553573	7
+1332.809	0.5	BAD keypress	2	1332809	n/a	n/a	n/a	n/a	n/a	n/a
+1333.059	0.0	keypress	4	1333059	n/a	n/a	n/a	n/a	n/a	n/a
+1334.459	0.0	nontarget	5	1334459	f	0	25.0	n/a	n/a	7
+1336.542	0.0	nontarget	5	1336542	x	0	22.0	n/a	n/a	7
+1337.642	181.0590000000002	BAD_break	3	1337642	n/a	n/a	n/a	n/a	n/a	n/a
+1519.201	0.0	nontarget	5	1519201	g	0	33.0	n/a	n/a	8
+1521.517	0.0	nontarget	5	1521517	a	0	36.0	n/a	n/a	8
+1523.467	0.0	nontarget	5	1523467	c	0	14.0	n/a	n/a	8
+1525.95	0.0	nontarget	5	1525950	b	0	46.0	n/a	n/a	8
+1528.1	0.0	nontarget	5	1528100	v	0	26.0	n/a	n/a	8
+1530.617	0.0	target	6	1530617	s	1	48.0	1	0.3794002	8
+1530.933	0.5	BAD keypress	2	1530933	n/a	n/a	n/a	n/a	n/a	n/a
+1531.183	0.0	keypress	4	1531183	n/a	n/a	n/a	n/a	n/a	n/a
+1532.7	0.0	nontarget	5	1532700	l	0	32.0	n/a	n/a	8
+1534.7	0.0	target	6	1534700	g	1	17.0	0	n/a	8
+1537.666	0.0	nontarget	5	1537666	j	0	44.0	n/a	n/a	8
+1540.183	0.0	nontarget	5	1540183	i	0	48.0	n/a	n/a	8
+1542.466	0.0	target	6	1542466	v	1	34.0	1	0.4011898	8
+1542.75	0.5	BAD keypress	2	1542750	n/a	n/a	n/a	n/a	n/a	n/a
+1543.0	0.0	keypress	4	1543000	n/a	n/a	n/a	n/a	n/a	n/a
+1544.516	0.0	nontarget	5	1544516	t	0	32.0	n/a	n/a	8
+1546.699	0.0	nontarget	5	1546699	ß	0	28.0	n/a	n/a	8
+1549.016	0.0	nontarget	5	1549016	b	0	36.0	n/a	n/a	8
+1551.299	0.0	nontarget	5	1551299	j	0	34.0	n/a	n/a	8
+1553.782	0.0	nontarget	5	1553782	v	0	46.0	n/a	n/a	8
+1555.949	0.0	target	6	1555949	m	1	27.0	1	0.4535599	8
+1556.249	0.5	BAD keypress	2	1556249	n/a	n/a	n/a	n/a	n/a	n/a
+1556.499	0.0	keypress	4	1556499	n/a	n/a	n/a	n/a	n/a	n/a
+1558.299	0.0	nontarget	5	1558299	m	0	49.0	n/a	n/a	8
+1560.315	0.0	nontarget	5	1560315	ö	0	18.0	n/a	n/a	8
+1562.482	0.0	nontarget	5	1562482	h	0	27.0	n/a	n/a	8
+1564.749	0.0	nontarget	5	1564749	b	0	33.0	n/a	n/a	8
+1566.815	0.0	nontarget	5	1566815	n	0	21.0	n/a	n/a	8
+1569.215	0.0	nontarget	5	1569215	j	0	41.0	n/a	n/a	8
+1571.582	0.0	nontarget	5	1571582	h	0	39.0	n/a	n/a	8
+1573.881	0.0	nontarget	5	1573881	ä	0	35.0	n/a	n/a	8
+1576.298	0.0	target	6	1576298	a	1	42.0	1	0.3590306	8
+1576.548	0.5	BAD keypress	2	1576548	n/a	n/a	n/a	n/a	n/a	n/a
+1576.798	0.0	keypress	4	1576798	n/a	n/a	n/a	n/a	n/a	n/a
+1578.081	0.0	target	6	1578081	p	1	18.0	1	0.5277311	8
+1578.465	0.5	BAD keypress	2	1578465	n/a	n/a	n/a	n/a	n/a	n/a
+1578.715	0.0	keypress	4	1578715	n/a	n/a	n/a	n/a	n/a	n/a
+1580.314	0.0	nontarget	5	1580314	k	0	37.0	n/a	n/a	8
+1582.414	0.0	target	6	1582414	s	1	23.0	1	0.4342022	8
+1582.698	0.5	BAD keypress	2	1582698	n/a	n/a	n/a	n/a	n/a	n/a
+1582.948	0.0	keypress	4	1582948	n/a	n/a	n/a	n/a	n/a	n/a
+1584.231	0.0	nontarget	5	1584231	v	0	18.0	n/a	n/a	8
+1586.264	0.0	nontarget	5	1586264	f	0	19.0	n/a	n/a	8
+1588.564	0.0	nontarget	5	1588564	q	0	35.0	n/a	n/a	8
+1591.014	0.0	nontarget	5	1591014	ö	0	44.0	n/a	n/a	8
+1593.447	0.0	nontarget	5	1593447	h	0	43.0	n/a	n/a	8
+1595.864	0.0	nontarget	5	1595864	b	0	42.0	n/a	n/a	8
+1598.114	0.0	target	6	1598114	d	1	32.0	1	0.4298525	8
+1598.397	0.5	BAD keypress	2	1598397	n/a	n/a	n/a	n/a	n/a	n/a
+1598.647	0.0	keypress	4	1598647	n/a	n/a	n/a	n/a	n/a	n/a
+1599.964	0.0	nontarget	5	1599964	e	0	20.0	n/a	n/a	8
+1601.947	0.0	nontarget	5	1601947	k	0	16.0	n/a	n/a	8
+1604.213	0.0	nontarget	5	1604213	r	0	33.0	n/a	n/a	8
+1606.73	0.0	nontarget	5	1606730	w	0	48.0	n/a	n/a	8
+1608.713	0.0	nontarget	5	1608713	ä	0	16.0	n/a	n/a	8
+1610.813	0.0	nontarget	5	1610813	o	0	23.0	n/a	n/a	8
+1613.23	0.0	nontarget	5	1613230	y	0	42.0	n/a	n/a	8
+1615.346	0.0	nontarget	5	1615346	t	0	24.0	n/a	n/a	8
+1617.463	0.0	nontarget	5	1617463	l	0	24.0	n/a	n/a	8
+1619.496	0.0	nontarget	5	1619496	e	0	19.0	n/a	n/a	8
+1621.529	0.0	nontarget	5	1621529	y	0	19.0	n/a	n/a	8
+1623.713	0.0	target	6	1623713	u	1	28.0	1	0.4131982	8
+1624.013	0.5	BAD keypress	2	1624013	n/a	n/a	n/a	n/a	n/a	n/a
+1624.263	0.0	keypress	4	1624263	n/a	n/a	n/a	n/a	n/a	n/a
+1625.996	0.0	nontarget	5	1625996	ß	0	45.0	n/a	n/a	8
+1628.112	0.0	target	6	1628112	q	1	24.0	1	0.4131061	8
+1628.396	0.5	BAD keypress	2	1628396	n/a	n/a	n/a	n/a	n/a	n/a
+1628.646	0.0	keypress	4	1628646	n/a	n/a	n/a	n/a	n/a	n/a
+1630.129	0.0	nontarget	5	1630129	s	0	30.0	n/a	n/a	8
+1632.679	0.0	nontarget	5	1632679	x	0	50.0	n/a	n/a	8
+1634.779	0.0	target	6	1634779	l	1	23.0	1	0.4503685	8
+1635.096	0.5	BAD keypress	2	1635096	n/a	n/a	n/a	n/a	n/a	n/a
+1635.346	0.0	keypress	4	1635346	n/a	n/a	n/a	n/a	n/a	n/a
+1636.795	0.0	nontarget	5	1636795	w	0	28.0	n/a	n/a	8
+1638.829	0.0	nontarget	5	1638829	m	0	19.0	n/a	n/a	8
+1640.879	0.0	nontarget	5	1640879	ä	0	20.0	n/a	n/a	8
+1642.978	0.0	nontarget	5	1642978	o	0	23.0	n/a	n/a	8
+1645.162	0.0	nontarget	5	1645162	s	0	28.0	n/a	n/a	8
+1647.245	0.0	nontarget	5	1647245	ß	0	22.0	n/a	n/a	8
+1649.511	0.0	target	6	1649511	g	1	33.0	1	0.4206229	8
+1649.762	0.5	BAD keypress	2	1649762	n/a	n/a	n/a	n/a	n/a	n/a
+1650.012	0.0	keypress	4	1650012	n/a	n/a	n/a	n/a	n/a	n/a
+1651.445	0.0	nontarget	5	1651445	e	0	27.0	n/a	n/a	8
+1653.395	0.0	nontarget	5	1653395	r	0	14.0	n/a	n/a	8
+1655.645	0.0	target	6	1655645	s	1	32.0	1	0.399189	8
+1655.895	0.5	BAD keypress	2	1655895	n/a	n/a	n/a	n/a	n/a	n/a
+1656.145	0.0	keypress	4	1656145	n/a	n/a	n/a	n/a	n/a	n/a
+1657.378	0.0	target	6	1657378	b	1	15.0	1	0.4898029	8
+1657.728	0.5	BAD keypress	2	1657728	n/a	n/a	n/a	n/a	n/a	n/a
+1657.978	0.0	keypress	4	1657978	n/a	n/a	n/a	n/a	n/a	n/a
+1659.761	0.0	nontarget	5	1659761	g	0	48.0	n/a	n/a	8
+1661.978	0.0	nontarget	5	1661978	z	0	30.0	n/a	n/a	8
+1663.078	20.098999999999933	BAD_break	3	1663078	n/a	n/a	n/a	n/a	n/a	n/a
+1683.677	0.0	nontarget	5	1683677	c	0	37.0	n/a	n/a	9
+1686.16	0.0	nontarget	5	1686160	j	0	46.0	n/a	n/a	9
+1688.61	0.0	nontarget	5	1688610	f	0	44.0	n/a	n/a	9
+1690.826	0.0	target	6	1690826	p	1	30.0	1	0.4790657	9
+1691.21	0.5	BAD keypress	2	1691210	n/a	n/a	n/a	n/a	n/a	n/a
+1691.46	0.0	keypress	4	1691460	n/a	n/a	n/a	n/a	n/a	n/a
+1692.96	0.0	nontarget	5	1692960	q	0	30.0	n/a	n/a	9
+1694.909	0.0	nontarget	5	1694909	i	0	14.0	n/a	n/a	9
+1697.126	0.0	nontarget	5	1697126	v	0	30.0	n/a	n/a	9
+1699.193	0.0	target	6	1699193	b	1	21.0	1	0.4321493	9
+1699.509	0.5	BAD keypress	2	1699509	n/a	n/a	n/a	n/a	n/a	n/a
+1699.759	0.0	keypress	4	1699759	n/a	n/a	n/a	n/a	n/a	n/a
+1700.976	0.0	nontarget	5	1700976	f	0	14.0	n/a	n/a	9
+1703.392	0.0	target	6	1703392	ä	1	42.0	1	0.39204	9
+1703.659	0.5	BAD keypress	2	1703659	n/a	n/a	n/a	n/a	n/a	n/a
+1703.909	0.0	keypress	4	1703909	n/a	n/a	n/a	n/a	n/a	n/a
+1705.442	0.0	nontarget	5	1705442	e	0	33.0	n/a	n/a	9
+1707.959	0.0	nontarget	5	1707959	n	0	48.0	n/a	n/a	9
+1710.475	0.0	nontarget	5	1710475	f	0	48.0	n/a	n/a	9
+1712.525	0.0	nontarget	5	1712525	o	0	20.0	n/a	n/a	9
+1714.742	0.0	target	6	1714742	k	1	30.0	1	0.4338916	9
+1715.025	0.5	BAD keypress	2	1715025	n/a	n/a	n/a	n/a	n/a	n/a
+1715.275	0.0	keypress	4	1715275	n/a	n/a	n/a	n/a	n/a	n/a
+1717.075	0.0	nontarget	5	1717075	u	0	49.0	n/a	n/a	9
+1719.225	0.0	nontarget	5	1719225	l	0	26.0	n/a	n/a	9
+1721.458	0.0	nontarget	5	1721458	a	0	31.0	n/a	n/a	9
+1723.542	0.0	nontarget	5	1723542	d	0	22.0	n/a	n/a	9
+1725.825	0.0	nontarget	5	1725825	r	0	34.0	n/a	n/a	9
+1728.375	0.0	target	6	1728375	ü	1	50.0	1	0.416141	9
+1728.658	0.5	BAD keypress	2	1728658	n/a	n/a	n/a	n/a	n/a	n/a
+1728.908	0.0	keypress	4	1728908	n/a	n/a	n/a	n/a	n/a	n/a
+1730.258	0.0	nontarget	5	1730258	n	0	22.0	n/a	n/a	9
+1732.658	0.0	nontarget	5	1732658	ß	0	41.0	n/a	n/a	9
+1734.791	0.0	nontarget	5	1734791	i	0	25.0	n/a	n/a	9
+1736.858	0.0	nontarget	5	1736858	f	0	21.0	n/a	n/a	9
+1738.874	0.0	nontarget	5	1738874	d	0	18.0	n/a	n/a	9
+1741.191	0.0	nontarget	5	1741191	b	0	36.0	n/a	n/a	9
+1743.207	0.0	nontarget	5	1743207	p	0	18.0	n/a	n/a	9
+1745.407	0.0	nontarget	5	1745407	s	0	29.0	n/a	n/a	9
+1747.741	0.0	nontarget	5	1747741	m	0	37.0	n/a	n/a	9
+1750.09	0.0	nontarget	5	1750090	b	0	38.0	n/a	n/a	9
+1752.44	0.0	nontarget	5	1752440	l	0	38.0	n/a	n/a	9
+1754.674	0.0	nontarget	5	1754674	f	0	31.0	n/a	n/a	9
+1756.707	0.0	nontarget	5	1756707	v	0	19.0	n/a	n/a	9
+1759.14	0.0	nontarget	5	1759140	k	0	43.0	n/a	n/a	9
+1761.107	0.0	nontarget	5	1761107	r	0	15.0	n/a	n/a	9
+1763.623	0.0	nontarget	5	1763623	c	0	48.0	n/a	n/a	9
+1766.04	0.0	target	6	1766040	z	1	42.0	1	0.5085782	9
+1766.406	0.5	BAD keypress	2	1766406	n/a	n/a	n/a	n/a	n/a	n/a
+1766.656	0.0	keypress	4	1766656	n/a	n/a	n/a	n/a	n/a	n/a
+1767.923	0.0	nontarget	5	1767923	t	0	17.0	n/a	n/a	9
+1770.389	0.0	nontarget	5	1770389	q	0	45.0	n/a	n/a	9
+1772.889	0.0	nontarget	5	1772889	h	0	47.0	n/a	n/a	9
+1775.073	0.0	target	6	1775073	o	1	28.0	1	0.499141	9
+1775.423	0.5	BAD keypress	2	1775423	n/a	n/a	n/a	n/a	n/a	n/a
+1775.673	0.0	keypress	4	1775673	n/a	n/a	n/a	n/a	n/a	n/a
+1777.139	0.0	target	6	1777139	g	1	29.0	1	0.432346	9
+1777.423	0.5	BAD keypress	2	1777423	n/a	n/a	n/a	n/a	n/a	n/a
+1777.673	0.0	keypress	4	1777673	n/a	n/a	n/a	n/a	n/a	n/a
+1779.422	0.0	nontarget	5	1779422	ß	0	46.0	n/a	n/a	9
+1781.656	0.0	nontarget	5	1781656	x	0	31.0	n/a	n/a	9
+1783.756	0.0	nontarget	5	1783756	p	0	23.0	n/a	n/a	9
+1785.839	0.0	nontarget	5	1785839	g	0	22.0	n/a	n/a	9
+1788.339	0.0	nontarget	5	1788339	u	0	47.0	n/a	n/a	9
+1790.322	0.0	nontarget	5	1790322	j	0	16.0	n/a	n/a	9
+1792.472	0.0	nontarget	5	1792472	z	0	26.0	n/a	n/a	9
+1794.422	0.0	nontarget	5	1794422	n	0	14.0	n/a	n/a	9
+1796.422	0.0	target	6	1796422	h	1	17.0	1	0.4604705	9
+1796.705	0.5	BAD keypress	2	1796705	n/a	n/a	n/a	n/a	n/a	n/a
+1796.955	0.0	keypress	4	1796955	n/a	n/a	n/a	n/a	n/a	n/a
+1798.538	0.0	nontarget	5	1798538	p	0	36.0	n/a	n/a	9
+1801.038	0.0	nontarget	5	1801038	q	0	47.0	n/a	n/a	9
+1803.321	0.0	nontarget	5	1803321	t	0	34.0	n/a	n/a	9
+1805.371	0.0	target	6	1805371	k	1	20.0	1	0.4703041	9
+1805.671	0.5	BAD keypress	2	1805671	n/a	n/a	n/a	n/a	n/a	n/a
+1805.921	0.0	keypress	4	1805921	n/a	n/a	n/a	n/a	n/a	n/a
+1807.321	0.0	nontarget	5	1807321	u	0	25.0	n/a	n/a	9
+1809.771	0.0	target	6	1809771	t	1	44.0	1	0.438217	9
+1810.071	0.5	BAD keypress	2	1810071	n/a	n/a	n/a	n/a	n/a	n/a
+1810.321	0.0	keypress	4	1810321	n/a	n/a	n/a	n/a	n/a	n/a
+1812.004	0.0	nontarget	5	1812004	a	0	42.0	n/a	n/a	9
+1814.221	0.0	nontarget	5	1814221	b	0	30.0	n/a	n/a	9
+1816.721	0.0	nontarget	5	1816721	ü	0	47.0	n/a	n/a	9
+1819.087	0.0	nontarget	5	1819087	ä	0	39.0	n/a	n/a	9
+1821.637	0.0	nontarget	5	1821637	k	0	50.0	n/a	n/a	9
+1823.637	0.0	nontarget	5	1823637	q	0	17.0	n/a	n/a	9
+1826.07	0.0	nontarget	5	1826070	t	0	43.0	n/a	n/a	9
+1828.404	0.0	nontarget	5	1828404	i	0	37.0	n/a	n/a	9
+1829.504	15.766000000000076	BAD_break	3	1829504	n/a	n/a	n/a	n/a	n/a	n/a
+1845.77	0.0	nontarget	5	1845770	d	0	29.0	n/a	n/a	10
+1848.303	0.0	nontarget	5	1848303	m	0	49.0	n/a	n/a	10
+1850.619	0.0	nontarget	5	1850619	y	0	36.0	n/a	n/a	10
+1852.819	0.0	nontarget	5	1852819	a	0	29.0	n/a	n/a	10
+1854.852	0.0	nontarget	5	1854852	i	0	19.0	n/a	n/a	10
+1856.836	0.0	nontarget	5	1856836	ß	0	16.0	n/a	n/a	10
+1858.819	0.0	target	6	1858819	x	1	16.0	1	0.4430588	10
+1859.102	0.5	BAD keypress	2	1859102	n/a	n/a	n/a	n/a	n/a	n/a
+1859.352	0.0	keypress	4	1859352	n/a	n/a	n/a	n/a	n/a	n/a
+1860.869	0.0	nontarget	5	1860869	a	0	32.0	n/a	n/a	10
+1863.119	0.0	nontarget	5	1863119	w	0	32.0	n/a	n/a	10
+1865.335	0.0	nontarget	5	1865335	l	0	30.0	n/a	n/a	10
+1867.569	0.0	nontarget	5	1867569	t	0	31.0	n/a	n/a	10
+1869.985	0.0	nontarget	5	1869985	v	0	42.0	n/a	n/a	10
+1872.135	0.0	nontarget	5	1872135	y	0	26.0	n/a	n/a	10
+1874.318	0.0	target	6	1874318	r	1	28.0	1	0.4466239	10
+1874.635	0.5	BAD keypress	2	1874635	n/a	n/a	n/a	n/a	n/a	n/a
+1874.885	0.0	keypress	4	1874885	n/a	n/a	n/a	n/a	n/a	n/a
+1876.218	0.0	nontarget	5	1876218	q	0	20.0	n/a	n/a	10
+1878.601	0.0	nontarget	5	1878601	ß	0	40.0	n/a	n/a	10
+1881.151	0.0	nontarget	5	1881151	r	0	50.0	n/a	n/a	10
+1883.451	0.0	nontarget	5	1883451	f	0	35.0	n/a	n/a	10
+1885.635	0.0	nontarget	5	1885635	w	0	28.0	n/a	n/a	10
+1888.151	0.0	nontarget	5	1888151	v	0	48.0	n/a	n/a	10
+1890.601	0.0	nontarget	5	1890601	ä	0	44.0	n/a	n/a	10
+1893.101	0.0	nontarget	5	1893101	j	0	47.0	n/a	n/a	10
+1895.484	0.0	nontarget	5	1895484	t	0	40.0	n/a	n/a	10
+1897.784	0.0	target	6	1897784	j	1	35.0	1	0.483418	10
+1898.117	0.5	BAD keypress	2	1898117	n/a	n/a	n/a	n/a	n/a	n/a
+1898.367	0.0	keypress	4	1898367	n/a	n/a	n/a	n/a	n/a	n/a
+1899.701	0.0	nontarget	5	1899701	p	0	21.0	n/a	n/a	10
+1901.884	0.0	nontarget	5	1901884	z	0	28.0	n/a	n/a	10
+1903.85	0.0	nontarget	5	1903850	a	0	15.0	n/a	n/a	10
+1906.384	0.0	nontarget	5	1906384	v	0	49.0	n/a	n/a	10
+1908.85	0.0	nontarget	5	1908850	ö	0	45.0	n/a	n/a	10
+1911.133	0.0	nontarget	5	1911133	z	0	34.0	n/a	n/a	10
+1913.517	0.0	nontarget	5	1913517	ü	0	40.0	n/a	n/a	10
+1916.05	0.0	nontarget	5	1916050	s	0	49.0	n/a	n/a	10
+1918.6	0.0	nontarget	5	1918600	k	0	50.0	n/a	n/a	10
+1920.816	0.0	nontarget	5	1920816	ä	0	30.0	n/a	n/a	10
+1922.783	0.0	nontarget	5	1922783	p	0	15.0	n/a	n/a	10
+1924.749	0.0	nontarget	5	1924749	a	0	15.0	n/a	n/a	10
+1926.883	0.0	nontarget	5	1926883	c	0	25.0	n/a	n/a	10
+1928.933	0.0	nontarget	5	1928933	d	0	20.0	n/a	n/a	10
+1931.416	0.0	nontarget	5	1931416	s	0	46.0	n/a	n/a	10
+1933.399	0.0	target	6	1933399	c	1	16.0	1	0.4340863	10
+1933.682	0.5	BAD keypress	2	1933682	n/a	n/a	n/a	n/a	n/a	n/a
+1933.932	0.0	keypress	4	1933932	n/a	n/a	n/a	n/a	n/a	n/a
+1935.549	0.0	target	6	1935549	q	1	38.0	1	0.4439922	10
+1935.849	0.5	BAD keypress	2	1935849	n/a	n/a	n/a	n/a	n/a	n/a
+1936.099	0.0	keypress	4	1936099	n/a	n/a	n/a	n/a	n/a	n/a
+1937.316	0.0	nontarget	5	1937316	p	0	14.0	n/a	n/a	10
+1939.365	0.0	target	6	1939365	i	1	20.0	1	0.4511752	10
+1939.699	0.5	BAD keypress	2	1939699	n/a	n/a	n/a	n/a	n/a	n/a
+1939.949	0.0	keypress	4	1939949	n/a	n/a	n/a	n/a	n/a	n/a
+1941.199	0.0	nontarget	5	1941199	k	0	16.0	n/a	n/a	10
+1943.665	0.0	nontarget	5	1943665	j	0	45.0	n/a	n/a	10
+1945.982	0.0	target	6	1945982	k	1	36.0	1	0.4103024	10
+1946.232	0.5	BAD keypress	2	1946232	n/a	n/a	n/a	n/a	n/a	n/a
+1946.482	0.0	keypress	4	1946482	n/a	n/a	n/a	n/a	n/a	n/a
+1947.748	0.0	nontarget	5	1947748	l	0	17.0	n/a	n/a	10
+1949.715	0.0	nontarget	5	1949715	u	0	15.0	n/a	n/a	10
+1951.682	0.0	target	6	1951682	y	1	15.0	1	0.4702323	10
+1952.015	0.5	BAD keypress	2	1952015	n/a	n/a	n/a	n/a	n/a	n/a
+1952.265	0.0	keypress	4	1952265	n/a	n/a	n/a	n/a	n/a	n/a
+1953.665	0.0	nontarget	5	1953665	r	0	25.0	n/a	n/a	10
+1955.915	0.0	nontarget	5	1955915	s	0	32.0	n/a	n/a	10
+1957.915	0.0	nontarget	5	1957915	z	0	17.0	n/a	n/a	10
+1960.231	0.0	nontarget	5	1960231	g	0	36.0	n/a	n/a	10
+1962.748	0.0	nontarget	5	1962748	h	0	48.0	n/a	n/a	10
+1964.748	0.0	target	6	1964748	z	1	17.0	1	0.5072359	10
+1965.098	0.5	BAD keypress	2	1965098	n/a	n/a	n/a	n/a	n/a	n/a
+1965.348	0.0	keypress	4	1965348	n/a	n/a	n/a	n/a	n/a	n/a
+1966.814	0.0	nontarget	5	1966814	n	0	29.0	n/a	n/a	10
+1969.231	0.0	target	6	1969231	y	1	42.0	1	0.3917934	10
+1969.481	0.5	BAD keypress	2	1969481	n/a	n/a	n/a	n/a	n/a	n/a
+1969.731	0.0	keypress	4	1969731	n/a	n/a	n/a	n/a	n/a	n/a
+1971.214	0.0	nontarget	5	1971214	f	0	30.0	n/a	n/a	10
+1973.197	0.0	nontarget	5	1973197	t	0	16.0	n/a	n/a	10
+1975.364	0.0	nontarget	5	1975364	g	0	27.0	n/a	n/a	10
+1977.43	0.0	nontarget	5	1977430	s	0	21.0	n/a	n/a	10
+1979.547	0.0	nontarget	5	1979547	a	0	24.0	n/a	n/a	10
+1981.947	0.0	nontarget	5	1981947	x	0	41.0	n/a	n/a	10
+1984.114	0.0	nontarget	5	1984114	g	0	27.0	n/a	n/a	10
+1986.413	0.0	nontarget	5	1986413	ä	0	35.0	n/a	n/a	10
+1988.913	0.0	nontarget	5	1988913	ü	0	47.0	n/a	n/a	10
+1990.013	19.999000000000024	BAD_break	3	1990013	n/a	n/a	n/a	n/a	n/a	n/a
+2010.512	0.0	target	6	2010512	x	1	40.0	1	0.4994565	11
+2010.913	0.5	BAD keypress	2	2010913	n/a	n/a	n/a	n/a	n/a	n/a
+2011.163	0.0	keypress	4	2011163	n/a	n/a	n/a	n/a	n/a	n/a
+2012.412	0.0	target	6	2012412	j	1	15.0	1	0.4394945	11
+2012.762	0.5	BAD keypress	2	2012762	n/a	n/a	n/a	n/a	n/a	n/a
+2013.012	0.0	keypress	4	2013012	n/a	n/a	n/a	n/a	n/a	n/a
+2014.296	0.0	nontarget	5	2014296	l	0	17.0	n/a	n/a	11
+2016.612	0.0	nontarget	5	2016612	n	0	36.0	n/a	n/a	11
+2018.829	0.0	nontarget	5	2018829	c	0	30.0	n/a	n/a	11
+2021.079	0.0	target	6	2021079	o	1	32.0	1	0.5245032	11
+2021.462	0.5	BAD keypress	2	2021462	n/a	n/a	n/a	n/a	n/a	n/a
+2021.712	0.0	keypress	4	2021712	n/a	n/a	n/a	n/a	n/a	n/a
+2022.962	0.0	nontarget	5	2022962	a	0	16.0	n/a	n/a	11
+2025.395	0.0	nontarget	5	2025395	h	0	43.0	n/a	n/a	11
+2027.712	0.0	target	6	2027712	a	1	36.0	1	0.419116	11
+2027.978	0.5	BAD keypress	2	2027978	n/a	n/a	n/a	n/a	n/a	n/a
+2028.228	0.0	keypress	4	2028228	n/a	n/a	n/a	n/a	n/a	n/a
+2029.578	0.0	nontarget	5	2029578	d	0	22.0	n/a	n/a	11
+2031.861	0.0	nontarget	5	2031861	f	0	34.0	n/a	n/a	11
+2034.028	0.0	nontarget	5	2034028	c	0	27.0	n/a	n/a	11
+2036.461	0.0	target	6	2036461	v	1	43.0	1	0.4368113	11
+2036.828	0.5	BAD keypress	2	2036828	n/a	n/a	n/a	n/a	n/a	n/a
+2037.078	0.0	keypress	4	2037078	n/a	n/a	n/a	n/a	n/a	n/a
+2038.678	0.0	nontarget	5	2038678	ü	0	37.0	n/a	n/a	11
+2040.678	0.0	target	6	2040678	e	1	17.0	1	0.4281402	11
+2040.978	0.5	BAD keypress	2	2040978	n/a	n/a	n/a	n/a	n/a	n/a
+2041.228	0.0	keypress	4	2041228	n/a	n/a	n/a	n/a	n/a	n/a
+2042.761	0.0	nontarget	5	2042761	s	0	33.0	n/a	n/a	11
+2044.911	0.0	nontarget	5	2044911	i	0	26.0	n/a	n/a	11
+2046.944	0.0	nontarget	5	2046944	x	0	19.0	n/a	n/a	11
+2049.094	0.0	nontarget	5	2049094	o	0	26.0	n/a	n/a	11
+2051.477	0.0	nontarget	5	2051477	ä	0	40.0	n/a	n/a	11
+2053.577	0.0	nontarget	5	2053577	q	0	23.0	n/a	n/a	11
+2055.944	0.0	nontarget	5	2055944	n	0	39.0	n/a	n/a	11
+2058.077	0.0	nontarget	5	2058077	h	0	25.0	n/a	n/a	11
+2060.244	0.0	nontarget	5	2060244	i	0	27.0	n/a	n/a	11
+2062.56	0.0	target	6	2062560	x	1	36.0	1	0.5282745	11
+2062.994	0.5	BAD keypress	2	2062994	n/a	n/a	n/a	n/a	n/a	n/a
+2063.244	0.0	keypress	4	2063244	n/a	n/a	n/a	n/a	n/a	n/a
+2064.977	0.0	nontarget	5	2064977	a	0	45.0	n/a	n/a	11
+2066.977	0.0	target	6	2066977	z	1	17.0	1	0.4794798	11
+2067.343	0.5	BAD keypress	2	2067343	n/a	n/a	n/a	n/a	n/a	n/a
+2067.593	0.0	keypress	4	2067593	n/a	n/a	n/a	n/a	n/a	n/a
+2068.976	0.0	nontarget	5	2068976	g	0	24.0	n/a	n/a	11
+2071.026	0.0	nontarget	5	2071026	ü	0	20.0	n/a	n/a	11
+2073.56	0.0	nontarget	5	2073560	ß	0	49.0	n/a	n/a	11
+2075.993	0.0	nontarget	5	2075993	r	0	43.0	n/a	n/a	11
+2078.059	0.0	nontarget	5	2078059	p	0	21.0	n/a	n/a	11
+2080.326	0.0	target	6	2080326	w	1	33.0	1	0.4572205	11
+2080.659	0.5	BAD keypress	2	2080659	n/a	n/a	n/a	n/a	n/a	n/a
+2080.909	0.0	keypress	4	2080909	n/a	n/a	n/a	n/a	n/a	n/a
+2082.643	0.0	nontarget	5	2082643	x	0	45.0	n/a	n/a	11
+2084.976	0.0	nontarget	5	2084976	d	0	37.0	n/a	n/a	11
+2087.292	0.0	nontarget	5	2087292	g	0	36.0	n/a	n/a	11
+2089.526	0.0	nontarget	5	2089526	w	0	31.0	n/a	n/a	11
+2091.925	0.0	nontarget	5	2091925	t	0	41.0	n/a	n/a	11
+2094.025	0.0	nontarget	5	2094025	x	0	23.0	n/a	n/a	11
+2096.259	0.0	nontarget	5	2096259	g	0	31.0	n/a	n/a	11
+2098.592	0.0	nontarget	5	2098592	k	0	37.0	n/a	n/a	11
+2100.975	0.0	nontarget	5	2100975	u	0	40.0	n/a	n/a	11
+2103.458	0.0	nontarget	5	2103458	c	0	46.0	n/a	n/a	11
+2106.008	0.0	target	6	2106008	f	1	50.0	1	0.5012841	11
+2106.392	0.5	BAD keypress	2	2106392	n/a	n/a	n/a	n/a	n/a	n/a
+2106.642	0.0	keypress	4	2106642	n/a	n/a	n/a	n/a	n/a	n/a
+2108.025	0.0	nontarget	5	2108025	p	0	24.0	n/a	n/a	11
+2110.325	0.0	nontarget	5	2110325	x	0	35.0	n/a	n/a	11
+2112.391	0.0	nontarget	5	2112391	v	0	21.0	n/a	n/a	11
+2114.824	0.0	nontarget	5	2114824	s	0	43.0	n/a	n/a	11
+2116.841	0.0	nontarget	5	2116841	z	0	18.0	n/a	n/a	11
+2119.074	0.0	nontarget	5	2119074	o	0	31.0	n/a	n/a	11
+2121.108	0.0	nontarget	5	2121108	n	0	19.0	n/a	n/a	11
+2123.641	0.0	nontarget	5	2123641	ö	0	49.0	n/a	n/a	11
+2125.957	0.0	nontarget	5	2125957	c	0	36.0	n/a	n/a	11
+2128.074	0.0	target	6	2128074	o	1	24.0	1	0.4980611	11
+2128.424	0.5	BAD keypress	2	2128424	n/a	n/a	n/a	n/a	n/a	n/a
+2128.674	0.0	keypress	4	2128674	n/a	n/a	n/a	n/a	n/a	n/a
+2130.424	0.0	target	6	2130424	v	1	46.0	1	0.4360122	11
+2130.724	0.5	BAD keypress	2	2130724	n/a	n/a	n/a	n/a	n/a	n/a
+2130.974	0.0	keypress	4	2130974	n/a	n/a	n/a	n/a	n/a	n/a
+2132.274	0.0	nontarget	5	2132274	n	0	19.0	n/a	n/a	11
+2134.274	0.0	nontarget	5	2134274	c	0	17.0	n/a	n/a	11
+2136.807	0.0	nontarget	5	2136807	i	0	49.0	n/a	n/a	11
+2138.923	0.0	target	6	2138923	w	1	24.0	1	0.4797711	11
+2139.29	0.5	BAD keypress	2	2139290	n/a	n/a	n/a	n/a	n/a	n/a
+2139.54	0.0	keypress	4	2139540	n/a	n/a	n/a	n/a	n/a	n/a
+2141.173	0.0	nontarget	5	2141173	s	0	39.0	n/a	n/a	11
+2143.573	0.0	nontarget	5	2143573	h	0	41.0	n/a	n/a	11
+2145.857	0.0	nontarget	5	2145857	l	0	34.0	n/a	n/a	11
+2148.14	0.0	nontarget	5	2148140	j	0	34.0	n/a	n/a	11
+2150.39	0.0	nontarget	5	2150390	u	0	32.0	n/a	n/a	11
+2152.506	0.0	nontarget	5	2152506	q	0	24.0	n/a	n/a	11
+2154.523	0.0	nontarget	5	2154523	z	0	18.0	n/a	n/a	11
+2155.623	39.11499999999978	BAD_break	3	2155623	n/a	n/a	n/a	n/a	n/a	n/a
+2195.238	0.0	nontarget	5	2195238	g	0	17.0	n/a	n/a	12
+2197.521	0.0	nontarget	5	2197521	ä	0	34.0	n/a	n/a	12
+2199.754	0.0	nontarget	5	2199754	n	0	31.0	n/a	n/a	12
+2201.954	0.0	nontarget	5	2201954	p	0	29.0	n/a	n/a	12
+2204.071	0.0	nontarget	5	2204071	r	0	24.0	n/a	n/a	12
+2206.554	0.0	nontarget	5	2206554	w	0	46.0	n/a	n/a	12
+2209.004	0.0	nontarget	5	2209004	d	0	44.0	n/a	n/a	12
+2211.454	0.0	target	6	2211454	ä	1	44.0	1	0.4247317	12
+2211.787	0.5	BAD keypress	2	2211787	n/a	n/a	n/a	n/a	n/a	n/a
+2212.037	0.0	keypress	4	2212037	n/a	n/a	n/a	n/a	n/a	n/a
+2213.487	0.0	target	6	2213487	r	1	28.0	1	0.5352831	12
+2213.904	0.5	BAD keypress	2	2213904	n/a	n/a	n/a	n/a	n/a	n/a
+2214.154	0.0	keypress	4	2214154	n/a	n/a	n/a	n/a	n/a	n/a
+2215.853	0.0	target	6	2215853	m	1	43.0	1	0.4405926	12
+2216.154	0.5	BAD keypress	2	2216154	n/a	n/a	n/a	n/a	n/a	n/a
+2216.404	0.0	keypress	4	2216404	n/a	n/a	n/a	n/a	n/a	n/a
+2217.937	0.0	nontarget	5	2217937	c	0	33.0	n/a	n/a	12
+2219.903	0.0	nontarget	5	2219903	b	0	15.0	n/a	n/a	12
+2221.87	0.0	nontarget	5	2221870	t	0	15.0	n/a	n/a	12
+2224.153	0.0	nontarget	5	2224153	ö	0	34.0	n/a	n/a	12
+2226.203	0.0	nontarget	5	2226203	ä	0	20.0	n/a	n/a	12
+2228.72	0.0	nontarget	5	2228720	k	0	48.0	n/a	n/a	12
+2231.136	0.0	nontarget	5	2231136	m	0	42.0	n/a	n/a	12
+2233.153	0.0	nontarget	5	2233153	r	0	18.0	n/a	n/a	12
+2235.553	0.0	nontarget	5	2235553	z	0	41.0	n/a	n/a	12
+2237.852	0.0	nontarget	5	2237852	ä	0	35.0	n/a	n/a	12
+2239.819	0.0	nontarget	5	2239819	q	0	15.0	n/a	n/a	12
+2241.786	0.0	target	6	2241786	t	1	15.0	1	0.4426735	12
+2242.119	0.5	BAD keypress	2	2242119	n/a	n/a	n/a	n/a	n/a	n/a
+2242.369	0.0	keypress	4	2242369	n/a	n/a	n/a	n/a	n/a	n/a
+2243.869	0.0	nontarget	5	2243869	x	0	31.0	n/a	n/a	12
+2245.985	0.0	nontarget	5	2245985	u	0	24.0	n/a	n/a	12
+2248.169	0.0	nontarget	5	2248169	ü	0	28.0	n/a	n/a	12
+2250.519	0.0	nontarget	5	2250519	f	0	38.0	n/a	n/a	12
+2252.469	0.0	nontarget	5	2252469	z	0	14.0	n/a	n/a	12
+2254.552	0.0	nontarget	5	2254552	ä	0	22.0	0	0.347767	12
+2254.552	1.0	BAD incorrect	1	2254552	ä	0	22.0	0	0.347767	12
+2254.785	0.5	BAD keypress	2	2254785	n/a	n/a	n/a	n/a	n/a	n/a
+2255.035	0.0	keypress	4	2255035	n/a	n/a	n/a	n/a	n/a	n/a
+2257.002	0.0	target	6	2257002	f	1	28.0	1	0.4576898	12
+2257.352	0.5	BAD keypress	2	2257352	n/a	n/a	n/a	n/a	n/a	n/a
+2257.602	0.0	keypress	4	2257602	n/a	n/a	n/a	n/a	n/a	n/a
+2259.268	0.0	nontarget	5	2259268	h	0	41.0	n/a	n/a	12
+2261.568	0.0	nontarget	5	2261568	x	0	35.0	n/a	n/a	12
+2263.718	0.0	nontarget	5	2263718	m	0	26.0	n/a	n/a	12
+2265.868	0.0	nontarget	5	2265868	w	0	26.0	n/a	n/a	12
+2267.935	0.0	nontarget	5	2267935	k	0	21.0	n/a	n/a	12
+2270.284	0.0	target	6	2270284	f	1	38.0	1	0.4699794	12
+2270.601	0.5	BAD keypress	2	2270601	n/a	n/a	n/a	n/a	n/a	n/a
+2270.851	0.0	keypress	4	2270851	n/a	n/a	n/a	n/a	n/a	n/a
+2272.418	0.0	nontarget	5	2272418	ä	0	35.0	n/a	n/a	12
+2274.368	0.0	nontarget	5	2274368	i	0	14.0	n/a	n/a	12
+2276.784	0.0	nontarget	5	2276784	ß	0	42.0	n/a	n/a	12
+2279.301	0.0	nontarget	5	2279301	g	0	48.0	n/a	n/a	12
+2281.401	0.0	nontarget	5	2281401	d	0	23.0	n/a	n/a	12
+2283.85	0.0	nontarget	5	2283850	m	0	44.0	n/a	n/a	12
+2286.234	0.0	nontarget	5	2286234	h	0	40.0	n/a	n/a	12
+2288.534	0.0	target	6	2288534	k	1	35.0	1	0.4755546	12
+2288.867	0.5	BAD keypress	2	2288867	n/a	n/a	n/a	n/a	n/a	n/a
+2289.117	0.0	keypress	4	2289117	n/a	n/a	n/a	n/a	n/a	n/a
+2290.834	0.0	nontarget	5	2290834	d	0	44.0	n/a	n/a	12
+2292.917	0.0	nontarget	5	2292917	x	0	22.0	n/a	n/a	12
+2295.333	0.0	nontarget	5	2295333	o	0	42.0	n/a	n/a	12
+2297.65	0.0	nontarget	5	2297650	w	0	36.0	n/a	n/a	12
+2299.933	0.0	target	6	2299933	ü	1	34.0	1	0.4192958	12
+2300.183	0.5	BAD keypress	2	2300183	n/a	n/a	n/a	n/a	n/a	n/a
+2300.433	0.0	keypress	4	2300433	n/a	n/a	n/a	n/a	n/a	n/a
+2302.033	0.0	nontarget	5	2302033	r	0	37.0	n/a	n/a	12
+2304.433	0.0	nontarget	5	2304433	ö	0	41.0	n/a	n/a	12
+2306.383	0.0	nontarget	5	2306383	a	0	14.0	n/a	n/a	12
+2308.433	0.0	nontarget	5	2308433	t	0	20.0	n/a	n/a	12
+2310.799	0.0	nontarget	5	2310799	h	0	39.0	n/a	n/a	12
+2313.133	0.0	nontarget	5	2313133	v	0	37.0	n/a	n/a	12
+2315.266	0.0	nontarget	5	2315266	ß	0	25.0	n/a	n/a	12
+2317.482	0.0	nontarget	5	2317482	w	0	30.0	n/a	n/a	12
+2319.816	0.0	nontarget	5	2319816	n	0	37.0	n/a	n/a	12
+2321.882	0.0	nontarget	5	2321882	r	0	21.0	n/a	n/a	12
+2323.882	0.0	nontarget	5	2323882	y	0	17.0	n/a	n/a	12
+2326.249	0.0	nontarget	5	2326249	w	0	39.0	n/a	n/a	12
+2328.399	0.0	target	6	2328399	a	1	26.0	1	0.5439634	12
+2328.782	0.5	BAD keypress	2	2328782	n/a	n/a	n/a	n/a	n/a	n/a
+2329.032	0.0	keypress	4	2329032	n/a	n/a	n/a	n/a	n/a	n/a
+2330.765	0.0	nontarget	5	2330765	ü	0	45.0	n/a	n/a	12
+2332.932	0.0	nontarget	5	2332932	z	0	27.0	n/a	n/a	12
+2335.415	0.0	target	6	2335415	q	1	46.0	1	0.4231747	12
+2335.698	0.5	BAD keypress	2	2335698	n/a	n/a	n/a	n/a	n/a	n/a
+2335.948	0.0	keypress	4	2335948	n/a	n/a	n/a	n/a	n/a	n/a
+2337.315	0.0	nontarget	5	2337315	q	0	23.0	n/a	n/a	12
+2339.481	0.0	nontarget	5	2339481	ö	0	27.0	n/a	n/a	12
+2340.581	35.19900000000007	BAD_break	3	2340581	n/a	n/a	n/a	n/a	n/a	n/a
+2376.28	0.0	nontarget	5	2376280	v	0	18.0	n/a	n/a	13
+2378.58	0.0	nontarget	5	2378580	ß	0	35.0	n/a	n/a	13
+2381.013	0.0	nontarget	5	2381013	k	0	43.0	n/a	n/a	13
+2383.046	0.0	nontarget	5	2383046	a	0	19.0	n/a	n/a	13
+2384.996	0.0	nontarget	5	2384996	u	0	14.0	n/a	n/a	13
+2387.196	0.0	nontarget	5	2387196	h	0	29.0	n/a	n/a	13
+2389.396	0.0	nontarget	5	2389396	t	0	29.0	n/a	n/a	13
+2391.546	0.0	nontarget	5	2391546	x	0	26.0	n/a	n/a	13
+2393.579	0.0	nontarget	5	2393579	n	0	19.0	n/a	n/a	13
+2396.129	0.0	target	6	2396129	p	1	50.0	1	0.4249782	13
+2396.462	0.5	BAD keypress	2	2396462	n/a	n/a	n/a	n/a	n/a	n/a
+2396.712	0.0	keypress	4	2396712	n/a	n/a	n/a	n/a	n/a	n/a
+2398.512	0.0	nontarget	5	2398512	i	0	49.0	n/a	n/a	13
+2400.595	0.0	nontarget	5	2400595	w	0	22.0	n/a	n/a	13
+2402.945	0.0	nontarget	5	2402945	y	0	38.0	n/a	n/a	13
+2405.379	0.0	nontarget	5	2405379	o	0	43.0	n/a	n/a	13
+2407.328	0.0	nontarget	5	2407328	i	0	14.0	n/a	n/a	13
+2409.778	0.0	nontarget	5	2409778	ß	0	44.0	n/a	n/a	13
+2411.795	0.0	nontarget	5	2411795	z	0	18.0	n/a	n/a	13
+2413.911	0.0	nontarget	5	2413911	g	0	24.0	n/a	n/a	13
+2415.861	0.0	nontarget	5	2415861	c	0	14.0	n/a	n/a	13
+2418.095	0.0	nontarget	5	2418095	t	0	31.0	n/a	n/a	13
+2420.145	0.0	nontarget	5	2420145	l	0	20.0	n/a	n/a	13
+2422.628	0.0	target	6	2422628	ü	1	46.0	1	0.4043743	13
+2422.928	0.5	BAD keypress	2	2422928	n/a	n/a	n/a	n/a	n/a	n/a
+2423.178	0.0	keypress	4	2423178	n/a	n/a	n/a	n/a	n/a	n/a
+2424.761	0.0	nontarget	5	2424761	e	0	36.0	n/a	n/a	13
+2426.894	0.0	target	6	2426894	y	1	25.0	1	0.473548	13
+2427.228	0.5	BAD keypress	2	2427228	n/a	n/a	n/a	n/a	n/a	n/a
+2427.478	0.0	keypress	4	2427478	n/a	n/a	n/a	n/a	n/a	n/a
+2428.861	0.0	nontarget	5	2428861	n	0	24.0	n/a	n/a	13
+2431.027	0.0	nontarget	5	2431027	m	0	27.0	n/a	n/a	13
+2433.077	0.0	nontarget	5	2433077	k	0	20.0	n/a	n/a	13
+2435.544	0.0	nontarget	5	2435544	ü	0	45.0	n/a	n/a	13
+2437.694	0.0	nontarget	5	2437694	l	0	26.0	n/a	n/a	13
+2439.844	0.0	nontarget	5	2439844	r	0	26.0	n/a	n/a	13
+2441.86	0.0	nontarget	5	2441860	h	0	18.0	n/a	n/a	13
+2444.327	0.0	nontarget	5	2444327	i	0	45.0	n/a	n/a	13
+2446.76	0.0	nontarget	5	2446760	f	0	43.0	n/a	n/a	13
+2448.877	0.0	nontarget	5	2448877	b	0	24.0	n/a	n/a	13
+2451.277	0.0	target	6	2451277	b	1	41.0	1	0.521703	13
+2451.56	0.5	BAD keypress	2	2451560	n/a	n/a	n/a	n/a	n/a	n/a
+2451.81	0.0	keypress	4	2451810	n/a	n/a	n/a	n/a	n/a	n/a
+2453.126	0.0	nontarget	5	2453126	g	0	20.0	n/a	n/a	13
+2455.676	0.0	target	6	2455676	f	1	50.0	1	0.4575608	13
+2455.993	0.5	BAD keypress	2	2455993	n/a	n/a	n/a	n/a	n/a	n/a
+2456.243	0.0	keypress	4	2456243	n/a	n/a	n/a	n/a	n/a	n/a
+2457.526	0.0	nontarget	5	2457526	ö	0	18.0	n/a	n/a	13
+2460.043	0.0	nontarget	5	2460043	ü	0	48.0	n/a	n/a	13
+2462.026	0.0	nontarget	5	2462026	ä	0	16.0	n/a	n/a	13
+2464.026	0.0	nontarget	5	2464026	t	0	17.0	n/a	n/a	13
+2466.226	0.0	nontarget	5	2466226	ß	0	29.0	n/a	n/a	13
+2468.609	0.0	nontarget	5	2468609	j	0	40.0	n/a	n/a	13
+2471.076	0.0	nontarget	5	2471076	z	0	45.0	n/a	n/a	13
+2473.142	0.0	nontarget	5	2473142	e	0	21.0	n/a	n/a	13
+2475.609	0.0	nontarget	5	2475609	c	0	45.0	n/a	n/a	13
+2477.609	0.0	nontarget	5	2477609	u	0	17.0	n/a	n/a	13
+2479.675	0.0	nontarget	5	2479675	p	0	21.0	n/a	n/a	13
+2481.825	0.0	nontarget	5	2481825	m	0	26.0	n/a	n/a	13
+2484.042	0.0	nontarget	5	2484042	ü	0	30.0	n/a	n/a	13
+2486.175	0.0	nontarget	5	2486175	s	0	25.0	n/a	n/a	13
+2488.375	0.0	nontarget	5	2488375	x	0	29.0	n/a	n/a	13
+2490.841	0.0	nontarget	5	2490841	p	0	45.0	n/a	n/a	13
+2492.791	0.0	nontarget	5	2492791	l	0	14.0	n/a	n/a	13
+2494.775	0.0	target	6	2494775	c	1	16.0	1	0.5726392	13
+2495.225	0.5	BAD keypress	2	2495225	n/a	n/a	n/a	n/a	n/a	n/a
+2495.475	0.0	keypress	4	2495475	n/a	n/a	n/a	n/a	n/a	n/a
+2497.091	0.0	target	6	2497091	n	1	38.0	1	0.4959251	13
+2497.441	0.5	BAD keypress	2	2497441	n/a	n/a	n/a	n/a	n/a	n/a
+2497.691	0.0	keypress	4	2497691	n/a	n/a	n/a	n/a	n/a	n/a
+2499.091	0.0	nontarget	5	2499091	ö	0	25.0	n/a	n/a	13
+2501.574	0.0	target	6	2501574	ü	1	46.0	1	0.4285313	13
+2501.841	0.5	BAD keypress	2	2501841	n/a	n/a	n/a	n/a	n/a	n/a
+2502.091	0.0	keypress	4	2502091	n/a	n/a	n/a	n/a	n/a	n/a
+2503.824	0.0	target	6	2503824	f	1	45.0	1	0.4664566	13
+2504.158	0.5	BAD keypress	2	2504158	n/a	n/a	n/a	n/a	n/a	n/a
+2504.408	0.0	keypress	4	2504408	n/a	n/a	n/a	n/a	n/a	n/a
+2506.107	0.0	target	6	2506107	l	1	43.0	1	0.4390744	13
+2506.391	0.5	BAD keypress	2	2506391	n/a	n/a	n/a	n/a	n/a	n/a
+2506.641	0.0	keypress	4	2506641	n/a	n/a	n/a	n/a	n/a	n/a
+2507.857	0.0	nontarget	5	2507857	g	0	14.0	n/a	n/a	13
+2509.807	0.0	target	6	2509807	n	1	14.0	1	0.4190167	13
+2510.057	0.5	BAD keypress	2	2510057	n/a	n/a	n/a	n/a	n/a	n/a
+2510.307	0.0	keypress	4	2510307	n/a	n/a	n/a	n/a	n/a	n/a
+2511.574	0.0	nontarget	5	2511574	d	0	17.0	n/a	n/a	13
+2513.557	0.0	nontarget	5	2513557	l	0	16.0	n/a	n/a	13
+2515.674	0.0	nontarget	5	2515674	w	0	24.0	n/a	n/a	13
+2518.224	0.0	nontarget	5	2518224	e	0	50.0	n/a	n/a	13
+2519.324	27.81500000000005	BAD_break	3	2519324	n/a	n/a	n/a	n/a	n/a	n/a
+2547.639	0.0	nontarget	5	2547639	f	0	42.0	n/a	n/a	14
+2549.772	0.0	nontarget	5	2549772	z	0	25.0	n/a	n/a	14
+2552.222	0.0	nontarget	5	2552222	s	0	44.0	n/a	n/a	14
+2554.222	0.0	nontarget	5	2554222	p	0	17.0	n/a	n/a	14
+2556.705	0.0	nontarget	5	2556705	i	0	46.0	n/a	n/a	14
+2558.939	0.0	nontarget	5	2558939	r	0	31.0	n/a	n/a	14
+2561.422	0.0	target	6	2561422	h	1	46.0	1	0.4330861	14
+2561.805	0.5	BAD keypress	2	2561805	n/a	n/a	n/a	n/a	n/a	n/a
+2562.055	0.0	keypress	4	2562055	n/a	n/a	n/a	n/a	n/a	n/a
+2563.838	0.0	nontarget	5	2563838	z	0	48.0	n/a	n/a	14
+2566.255	0.0	target	6	2566255	w	1	42.0	1	0.4476582	14
+2566.555	0.5	BAD keypress	2	2566555	n/a	n/a	n/a	n/a	n/a	n/a
+2566.805	0.0	keypress	4	2566805	n/a	n/a	n/a	n/a	n/a	n/a
+2568.321	0.0	nontarget	5	2568321	h	0	32.0	n/a	n/a	14
+2570.538	0.0	nontarget	5	2570538	b	0	30.0	n/a	n/a	14
+2573.021	0.0	nontarget	5	2573021	f	0	46.0	n/a	n/a	14
+2575.304	0.0	nontarget	5	2575304	o	0	34.0	n/a	n/a	14
+2577.538	0.0	nontarget	5	2577538	d	0	31.0	n/a	n/a	14
+2579.588	0.0	nontarget	5	2579588	ß	0	20.0	n/a	n/a	14
+2582.121	0.0	nontarget	5	2582121	l	0	49.0	n/a	n/a	14
+2584.187	0.0	nontarget	5	2584187	i	0	21.0	n/a	n/a	14
+2586.654	0.0	nontarget	5	2586654	c	0	45.0	n/a	n/a	14
+2588.654	0.0	target	6	2588654	r	1	17.0	1	0.4951797	14
+2589.004	0.5	BAD keypress	2	2589004	n/a	n/a	n/a	n/a	n/a	n/a
+2589.254	0.0	keypress	4	2589254	n/a	n/a	n/a	n/a	n/a	n/a
+2590.487	0.0	target	6	2590487	ü	1	15.0	1	0.421701	14
+2590.787	0.5	BAD keypress	2	2590787	n/a	n/a	n/a	n/a	n/a	n/a
+2591.037	0.0	keypress	4	2591037	n/a	n/a	n/a	n/a	n/a	n/a
+2592.737	0.0	target	6	2592737	d	1	43.0	1	0.459584	14
+2593.07	0.5	BAD keypress	2	2593070	n/a	n/a	n/a	n/a	n/a	n/a
+2593.32	0.0	keypress	4	2593320	n/a	n/a	n/a	n/a	n/a	n/a
+2595.004	0.0	nontarget	5	2595004	v	0	42.0	n/a	n/a	14
+2596.954	0.0	nontarget	5	2596954	w	0	14.0	n/a	n/a	14
+2599.47	0.0	nontarget	5	2599470	g	0	48.0	n/a	n/a	14
+2601.57	0.0	nontarget	5	2601570	e	0	23.0	n/a	n/a	14
+2603.587	0.0	nontarget	5	2603587	p	0	18.0	n/a	n/a	14
+2605.636	0.0	nontarget	5	2605636	y	0	20.0	n/a	n/a	14
+2607.703	0.0	nontarget	5	2607703	j	0	21.0	n/a	n/a	14
+2609.886	0.0	nontarget	5	2609886	c	0	28.0	n/a	n/a	14
+2612.22	0.0	target	6	2612220	u	1	37.0	1	0.5438242	14
+2612.636	0.5	BAD keypress	2	2612636	n/a	n/a	n/a	n/a	n/a	n/a
+2612.886	0.0	keypress	4	2612886	n/a	n/a	n/a	n/a	n/a	n/a
+2614.536	0.0	target	6	2614536	b	1	40.0	1	0.4992735	14
+2614.936	0.5	BAD keypress	2	2614936	n/a	n/a	n/a	n/a	n/a	n/a
+2615.186	0.0	keypress	4	2615186	n/a	n/a	n/a	n/a	n/a	n/a
+2616.836	0.0	target	6	2616836	p	1	40.0	1	0.4390337	14
+2617.236	0.5	BAD keypress	2	2617236	n/a	n/a	n/a	n/a	n/a	n/a
+2617.486	0.0	keypress	4	2617486	n/a	n/a	n/a	n/a	n/a	n/a
+2618.786	0.0	nontarget	5	2618786	t	0	19.0	n/a	n/a	14
+2621.269	0.0	target	6	2621269	j	1	46.0	1	0.4696104	14
+2621.653	0.5	BAD keypress	2	2621653	n/a	n/a	n/a	n/a	n/a	n/a
+2621.903	0.0	keypress	4	2621903	n/a	n/a	n/a	n/a	n/a	n/a
+2623.219	0.0	target	6	2623219	g	1	20.0	1	0.4075998	14
+2623.552	0.5	BAD keypress	2	2623552	n/a	n/a	n/a	n/a	n/a	n/a
+2623.802	0.0	keypress	4	2623802	n/a	n/a	n/a	n/a	n/a	n/a
+2625.019	0.0	nontarget	5	2625019	u	0	14.0	n/a	n/a	14
+2627.219	0.0	nontarget	5	2627219	b	0	29.0	n/a	n/a	14
+2629.369	0.0	nontarget	5	2629369	w	0	26.0	n/a	n/a	14
+2631.369	0.0	target	6	2631369	d	1	17.0	1	0.4974577	14
+2631.752	0.5	BAD keypress	2	2631752	n/a	n/a	n/a	n/a	n/a	n/a
+2632.002	0.0	keypress	4	2632002	n/a	n/a	n/a	n/a	n/a	n/a
+2633.452	0.0	nontarget	5	2633452	n	0	28.0	n/a	n/a	14
+2635.835	0.0	nontarget	5	2635835	ü	0	40.0	n/a	n/a	14
+2637.902	0.0	nontarget	5	2637902	l	0	21.0	n/a	n/a	14
+2640.168	0.0	nontarget	5	2640168	k	0	33.0	n/a	n/a	14
+2642.668	0.0	nontarget	5	2642668	z	0	47.0	n/a	n/a	14
+2644.918	0.0	nontarget	5	2644918	ä	0	32.0	n/a	n/a	14
+2647.318	0.0	nontarget	5	2647318	m	0	41.0	n/a	n/a	14
+2649.785	0.0	nontarget	5	2649785	f	0	45.0	n/a	n/a	14
+2651.884	0.0	nontarget	5	2651884	q	0	23.0	n/a	n/a	14
+2654.118	0.0	nontarget	5	2654118	w	0	31.0	n/a	n/a	14
+2656.568	0.0	nontarget	5	2656568	ü	0	44.0	n/a	n/a	14
+2658.668	0.0	nontarget	5	2658668	k	0	23.0	n/a	n/a	14
+2661.034	0.0	nontarget	5	2661034	u	0	39.0	n/a	n/a	14
+2663.501	0.0	nontarget	5	2663501	d	0	45.0	n/a	n/a	14
+2665.584	0.0	nontarget	5	2665584	e	0	22.0	n/a	n/a	14
+2667.917	0.0	nontarget	5	2667917	n	0	37.0	n/a	n/a	14
+2670.434	0.0	nontarget	5	2670434	v	0	48.0	n/a	n/a	14
+2672.884	0.0	nontarget	5	2672884	l	0	44.0	n/a	n/a	14
+2674.933	0.0	nontarget	5	2674933	t	0	20.0	n/a	n/a	14
+2677.167	0.0	target	6	2677167	t	1	31.0	1	0.4882545	14
+2677.55	0.5	BAD keypress	2	2677550	n/a	n/a	n/a	n/a	n/a	n/a
+2677.8	0.0	keypress	4	2677800	n/a	n/a	n/a	n/a	n/a	n/a
+2679.117	0.0	nontarget	5	2679117	v	0	20.0	n/a	n/a	14
+2680.217	13.221999999999753	BAD_break	3	2680217	n/a	n/a	n/a	n/a	n/a	n/a

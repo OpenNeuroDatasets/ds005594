@@ -1,0 +1,18 @@
+{
+    "Name": "Alphabetic Decision Task",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC BY 4.0",
+    "Authors": [
+        "Jack E. Taylor",
+        "Rasmus Sinn",
+        "Cosimo Iaia",
+        "Christian J. Fiebach"
+    ],
+    "Funding": [
+        "Goethe University Fokus"
+    ],
+    "EthicsApprovals": [
+        "Goethe University Ethics Commission for Psychology and Sport Science 2023-43"
+    ]
+}
