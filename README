@@ -2,7 +2,7 @@ Generated from raw data by MNE-BIDS (Appelhoff et al., 2019) and custom code to 
 
 ## Notes on the Data
 
-For full details on this dataset, see our preprint: Taylor et al. (2024)
+For full details on this dataset, see our preprint: Taylor et al. (2024) https://doi.org/10.1101/2024.11.11.622929
 
 * An issue during recording meant that sub-05 completed the first block without data being saved. The experiment was restarted from the beginning for this participant. This participant was not included in our analyses, but the data are included in this dataset. They are also identified with the `recording_restarted` field in `participants.tsv`.
 
