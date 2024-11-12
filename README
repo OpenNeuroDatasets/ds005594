@@ -4,6 +4,8 @@ Generated from raw data by MNE-BIDS (Appelhoff et al., 2019) and custom code to 
 
 For full details on this dataset, see our preprint: Taylor et al. (2024) https://doi.org/10.1101/2024.11.11.622929
 
+General notes:
+
 * An issue during recording meant that sub-05 completed the first block without data being saved. The experiment was restarted from the beginning for this participant. This participant was not included in our analyses, but the data are included in this dataset. They are also identified with the `recording_restarted` field in `participants.tsv`.
 
 * A separate issue during recording meant that EEG data for some trials were lost for `sub-01`, though enough trials were recorded in total to meet our criteria for inclusion in the analysis. The raw data comprised two separate recordings. In this dataset, the two recordings are concatenated end-to-end into one file. The point at which the files are joined is marked with a boundary event. This participant is identified with the `recording_interrupted` field in `participants.tsv`.
